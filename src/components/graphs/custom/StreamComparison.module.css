@@ -1,0 +1,45 @@
+/* 
+ * This organizes things so the table is at the bottom of everything...
+ * (And gives default font styles)
+ */
+.sectionWrapper {
+	display: flex;
+	flex-direction: column;
+
+	font-family: var(--font-athiti);
+	font-size: 14px;
+}
+
+/*
+ * This makes the graph float on normal/wide screens so text can wrap around it.
+ * Max width keeps it from pushing the table too far down.
+ */
+.graph {
+	float: inline-end;
+	width: 60%;
+	max-width: 600px;
+}
+
+/*
+ * If the screen is too narrow, give up and make everything fall in a column:
+ * - remove float from graph
+ * - use a flexbox hack so the graph is still placed after the text
+ */
+@media (max-width: 800px) {
+	.thePartWithCursedOrdering {
+		gap: 0;
+		display: flex;
+		flex-direction: column-reverse;
+	}
+
+	.description {
+		flex: 1;
+	}
+
+	.graph {
+		flex: 1;
+		margin-top: 20px;
+		float: none;
+		width: auto;
+	}
+}

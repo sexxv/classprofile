@@ -1,0 +1,10 @@
+.contributorsTable {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    table-layout: fixed;
+}
+
+.contributorsTable td {
+      vertical-align: top;
+}

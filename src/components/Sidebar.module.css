@@ -1,0 +1,171 @@
+.sidebarToggle {
+	position: fixed;
+	top: 0;
+	right: 0;
+	width: 55px;
+	height: 55px;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	color: white;
+	background-color: rgba(0, 0, 0, 0.7);
+	border: 1px solid white;
+	border-right: none;
+	cursor: pointer;
+	font-size: 32px;
+	line-height: 50px;
+
+	z-index: 1000;
+	flex: 1;
+
+	transition: right 0.5s;
+}
+
+.sidebarToggleTotallyGone {
+	right: -55px;
+}
+
+.sidebarToggleOpen {
+	right: 250px;
+}
+
+.sidebarToggleText {
+	font-size: 24px;
+	transition: transform 0.2s;
+	text-align: center;
+}
+
+.sidebarToggleTextOpen {
+	transform: rotateZ(180deg);
+}
+
+.sidebarClosed {
+	width: 0;
+	border-left: 1px solid transparent;
+}
+
+.sidebarOpen {
+	width: 250px;
+	border-left: 1px solid white;
+}
+
+.sidebar a {
+	transition:
+		color 0.2s,
+		background-color 0.2s;
+}
+
+.sidebar a:first-child:hover {
+	cursor: pointer;
+	color: #9562d8;
+}
+
+.sidebar a:last-child:hover {
+	cursor: pointer;
+	color: white;
+}
+
+.sidebar a:nth-child(odd):not(:first-child):not(:last-child):hover {
+	cursor: pointer;
+	color: #3b80c4;
+}
+
+.sidebar a:nth-child(even):hover {
+	cursor: pointer;
+	color: #9562d8;
+}
+
+.sidebarSurveySection {
+	font-weight: bold;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	padding-left: 20px;
+	padding-right: 0;
+	font-size: 14px;
+}
+
+.sidebarSurveySection:hover {
+	cursor: pointer;
+	background-color: rgba(50, 50, 50, 0.7);
+}
+
+/* reallyDarkBlue: "#021A2F",
+	reallyDarkPurple: "#170636", */
+
+
+.activeSidebarSection:first-child {
+	background-color: #9562d8 !important;
+	color: white !important;
+}
+
+.activeSidebarSection:last-child {
+	background-color: rgba(50, 50, 50, 0.7) !important;
+	color: white !important;
+}
+
+/* trust */
+.activeSidebarSection:nth-child(odd):not(:first-child):not(:last-child) {
+	background-color: #3b80c4;
+	color: white !important;
+}
+
+.activeSidebarSection:nth-child(even) {
+	background-color: #9562d8;
+	color: white !important;
+}
+
+.sidebar {
+	top: 0;
+	position: sticky;
+	background-color: rgba(0, 0, 0, 0.7);
+	color: white;
+	overflow-y: auto;
+	transition:
+		border-left 0.5s,
+		width 0.5s;
+	padding: 0;
+}
+
+.sidebarFixedPart {
+	position: fixed;
+	top: 0;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	justify-content: space-between;
+	display: flex;
+	flex-direction: column;
+	overflow-y: scroll;
+	width: 100%;
+	height: 100%;
+}
+
+@media (max-width: 800px) {
+	.sidebarFixedPart {
+		position: absolute;
+		top: 0;
+	}
+
+	.sidebar {
+		position: fixed;
+		top: 0;
+		height: 100%;
+		right: 0;
+		z-index: 1000;
+		background-color: black;
+	}
+
+	.sidebarToggleOpen {
+		right: 250px;
+	}
+
+	.sidebarToggle {
+		position: fixed;
+		top: 0;
+		transition: right 0.5s;
+	}
+
+	.sidebarToggleTotallyGone {
+		right: -55px;
+	}
+}

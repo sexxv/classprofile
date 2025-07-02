@@ -1,0 +1,1724 @@
+{
+	"What year were you born?": {
+		"labels": [
+			"2001",
+			"2002",
+			"2003",
+			"2004"
+		],
+		"counts": [
+			5,
+			68,
+			1,
+			1
+		],
+		"n": 75
+	},
+	"What racial or ethnic groups describe you?": {
+		"labels": [
+			"East Asian",
+			"Middle Eastern",
+			"Prefer not to specify",
+			"South Asian",
+			"Southeast Asian",
+			"White/Caucasian"
+		],
+		"counts": [
+			50,
+			2,
+			1,
+			17,
+			3,
+			9
+		],
+		"n": 79
+	},
+	"Are you an out-of-province student?": {
+		"labels": [
+			"No",
+			"Yes",
+			"Prefer not to answer"
+		],
+		"counts": [
+			54,
+			24,
+			1
+		],
+		"n": 79
+	},
+	"Are you an international student?": {
+		"labels": [
+			"No",
+			"Yes"
+		],
+		"counts": [
+			76,
+			3
+		],
+		"n": 79
+	},
+	"Are you multilingual?": {
+		"labels": [
+			"No",
+			"Yes",
+			"Prefer not to answer"
+		],
+		"counts": [
+			12,
+			65,
+			1
+		],
+		"n": 78
+	},
+	"What languages do you speak?": {
+		"labels": [
+			"Azeri",
+			"Chinese (Cantonese)",
+			"Chinese (Mandarin)",
+			"Chinese (Unspecified)",
+			"Dutch",
+			"Farsi",
+			"French",
+			"Gujarati",
+			"Hindi",
+			"Korean",
+			"Marathi",
+			"Russian",
+			"Spanish",
+			"Turkish",
+			"Urdu",
+			"Vietnamese"
+		],
+		"counts": [
+			1,
+			2,
+			32,
+			7,
+			1,
+			2,
+			14,
+			1,
+			2,
+			1,
+			1,
+			1,
+			2,
+			2,
+			7,
+			1
+		],
+		"n": 59
+	},
+	"What languages do you speak at home?": {
+		"labels": [
+			"Chinese (Cantonese)",
+			"Chinese (Mandarin)",
+			"Chinese (Unspecified)",
+			"Dutch",
+			"English",
+			"Farsi",
+			"Gujarati",
+			"Hindi",
+			"Korean",
+			"Marathi",
+			"Russian",
+			"Turkish",
+			"Urdu",
+			"Vietnamese"
+		],
+		"counts": [
+			2,
+			32,
+			6,
+			1,
+			44,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			2,
+			6,
+			1
+		],
+		"n": 66
+	},
+	"Where is your family's home located?": {
+		"labels": [
+			"Aurora, ON",
+			"Beijing, China",
+			"Boston, MA",
+			"Brampton, ON",
+			"Calgary, AB",
+			"Cambridge, ON",
+			"Coquitlam, BC",
+			"Kingston, ON",
+			"Lakefield, ON",
+			"London, ON",
+			"Markham, ON",
+			"Mississauga, ON",
+			"Montreal, QC",
+			"New Delhi, India",
+			"Newmarket, ON",
+			"Niagara Falls, ON",
+			"Oakville, ON",
+			"Ottawa, ON",
+			"Pickering, ON",
+			"Richmond Hill, ON",
+			"St. Catharines, ON",
+			"Sunnyvale, CA",
+			"Surrey, BC",
+			"Tabriz, Iran",
+			"Toronto, ON",
+			"Vancouver, BC",
+			"Vaughan, ON",
+			"Victoria, BC",
+			"Waterloo, ON",
+			"Whitby, ON",
+			"Windsor, ON",
+			"Winnipeg, MB"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			7,
+			3,
+			2,
+			1,
+			1,
+			3,
+			5,
+			4,
+			1,
+			1,
+			1,
+			1,
+			2,
+			4,
+			1,
+			3,
+			1,
+			1,
+			1,
+			1,
+			13,
+			5,
+			2,
+			1,
+			2,
+			1,
+			1,
+			1
+		],
+		"n": 74
+	},
+	"How many siblings do you have?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4"
+		],
+		"counts": [
+			14,
+			51,
+			11,
+			1,
+			1
+		],
+		"n": 78
+	},
+	"Are you the eldest, youngest, or in the middle?": {
+		"labels": [
+			"Youngest",
+			"Middle",
+			"Eldest"
+		],
+		"counts": [
+			31,
+			7,
+			26
+		],
+		"n": 64
+	},
+	"Have any of them also studied at Waterloo?": {
+		"labels": [
+			"No",
+			"Yes",
+			"Unsure"
+		],
+		"counts": [
+			46,
+			16,
+			1
+		],
+		"n": 63
+	},
+	"What is the highest level of education of your parents?": {
+		"labels": [
+			"Did not complete high school",
+			"High school",
+			"Some postsecondary",
+			"Postsecondary Diploma (e.g. Undergrad, community college)",
+			"Masters",
+			"Doctorate",
+			"Prefer not to answer"
+		],
+		"counts": [
+			0,
+			0,
+			1,
+			29,
+			33,
+			14,
+			2
+		],
+		"n": 79
+	},
+	"How many hackathons did you attend in high school?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"8",
+			"11"
+		],
+		"counts": [
+			45,
+			17,
+			6,
+			2,
+			4,
+			2,
+			1,
+			1
+		],
+		"n": 78
+	},
+	"First programming language?": {
+		"labels": [
+			"ActionScript",
+			"BASIC",
+			"C",
+			"C++",
+			"Java",
+			"JavaScript",
+			"Python",
+			"Swift",
+			"Visual Basic"
+		],
+		"counts": [
+			1,
+			1,
+			3,
+			6,
+			37,
+			10,
+			19,
+			1,
+			1
+		],
+		"n": 79
+	},
+	"Did you attend CEGEP?": {
+		"labels": [
+			"No",
+			"Yes\n(Computer Science)"
+		],
+		"counts": [
+			77,
+			1
+		],
+		"n": 78
+	},
+	"Did you have any job experience relevant to SE prior to starting 1A?": {
+		"labels": [
+			"No",
+			"Yes"
+		],
+		"counts": [
+			60,
+			19
+		],
+		"n": 79
+	},
+	"What other job experience did you have prior to starting 1A?": {
+		"labels": [
+			"Babysitter",
+			"Cashier",
+			"Computer Science Tutor",
+			"Contract Video Editor",
+			"Finance Co-op",
+			"Grocery Clerk",
+			"Grocery Store Cashier",
+			"Kumon",
+			"Lifeguard",
+			"Math Tutor",
+			"McDonald\u2019s",
+			"Music Teacher",
+			"Newspaper Carrier",
+			"PNE Games Attendant",
+			"Piano Teacher",
+			"Retail",
+			"Science World Camp Facilitator",
+			"Soccer Referee",
+			"Spirit of Math Assistant Teacher",
+			"Sports Instructor",
+			"Summer Camp Counselor",
+			"Teaching Assistant at Kumon",
+			"Tutor",
+			"Youth in Policing"
+		],
+		"counts": [
+			1,
+			3,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1
+		],
+		"n": 25
+	},
+	"What other universities did you apply to?": {
+		"labels": [
+			"Caltech",
+			"Carleton University",
+			"Carnegie Mellon",
+			"Cornell",
+			"Harvard",
+			"Harvey Mudd College",
+			"Hong Kong University of Science and Technology",
+			"MIT",
+			"McGill University",
+			"McMaster University",
+			"Ontario Tech University",
+			"Queen's University",
+			"Simon Fraser University",
+			"Stanford",
+			"Toronto Metropolitan University",
+			"UC Berkeley",
+			"UC Davis",
+			"UC Irvine",
+			"UC San Diego",
+			"UC Santa Barbara",
+			"UCLA",
+			"University of Alberta",
+			"University of British Columbia",
+			"University of Calgary",
+			"University of Manitoba",
+			"University of Michigan",
+			"University of Ottawa",
+			"University of Southern California",
+			"University of Toronto",
+			"University of Washington",
+			"University of Western Ontario",
+			"Wilfrid Laurier University",
+			"York University"
+		],
+		"counts": [
+			2,
+			11,
+			2,
+			3,
+			12,
+			1,
+			1,
+			18,
+			27,
+			33,
+			1,
+			20,
+			5,
+			17,
+			4,
+			14,
+			1,
+			2,
+			4,
+			1,
+			3,
+			8,
+			28,
+			6,
+			2,
+			1,
+			1,
+			1,
+			74,
+			1,
+			19,
+			6,
+			4
+		],
+		"n": 78
+	},
+	"Out of all of the university programs you applied to, how would you rank Waterloo SE?": {
+		"labels": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"counts": [
+			57,
+			8,
+			3,
+			1,
+			7,
+			2
+		],
+		"n": 78
+	},
+	"Which extracurriculars were you part of in high school?": {
+		"labels": [
+			"Academic Olympics",
+			"Aerospace Club",
+			"Art Club",
+			"Badminton Club",
+			"Band",
+			"Biology Club",
+			"Cancer Drive",
+			"Chemistry Club",
+			"Chess Club",
+			"Choir",
+			"Competitive Dragon Boating",
+			"Computer Science Club",
+			"Cross Country",
+			"DECA",
+			"Dance",
+			"Dance Team",
+			"Debate Club",
+			"Ensembles",
+			"FBLA",
+			"FIRST (FRC/FTC) Robotics",
+			"Film Club",
+			"Greenhouse Club",
+			"HOSA",
+			"Literature Club",
+			"Math & Science Olympics",
+			"Math Club",
+			"Mathletes",
+			"Model UN",
+			"Music Council",
+			"Programming Club",
+			"Reach for the Top",
+			"Relay for Life",
+			"SHAD",
+			"STEM Club",
+			"School Newspaper",
+			"Singing",
+			"Ski Club",
+			"Soccer",
+			"Sports",
+			"Student Government",
+			"Student News Association",
+			"Theatre Club",
+			"Toronto Symphony Youth Orchestra",
+			"Track and Field",
+			"Trivia Club",
+			"VEX Robotics",
+			"Varsity Basketball",
+			"Varsity Volleyball",
+			"Volunteering"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			3,
+			2,
+			1,
+			1,
+			1,
+			12,
+			1,
+			1,
+			5,
+			1,
+			22,
+			1,
+			1,
+			8,
+			1,
+			1,
+			13,
+			1,
+			2,
+			7,
+			1,
+			1,
+			3,
+			1,
+			8,
+			1,
+			1,
+			2,
+			1,
+			15,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			9,
+			1,
+			1,
+			1,
+			1,
+			1,
+			12,
+			1,
+			1,
+			1
+		],
+		"n": 66
+	},
+	"How many years of programming experience did you have prior to starting 1A?": {
+		"labels": [
+			"0-1 year",
+			"2-5 years",
+			"6-10 years"
+		],
+		"counts": [
+			33,
+			43,
+			2
+		],
+		"n": 78
+	},
+	"Did you participate in any high school enrichment programs?": {
+		"labels": [
+			"AP",
+			"Enriched STEM Program",
+			"Gifted",
+			"IB",
+			"MaCS",
+			"SHSM",
+			"TOPS"
+		],
+		"counts": [
+			38,
+			1,
+			13,
+			11,
+			2,
+			1,
+			5
+		],
+		"n": 58
+	},
+	"How many people did you know from high school that also went to Waterloo?": {
+		"labels": [
+			"0-1",
+			"2-5",
+			"6-10",
+			"11-20",
+			">20"
+		],
+		"counts": [
+			17,
+			27,
+			12,
+			11,
+			12
+		],
+		"n": 79
+	},
+	"Did you take a gap year between high school and university?": {
+		"labels": [
+			"No",
+			"Yes"
+		],
+		"counts": [
+			76,
+			3
+		],
+		"n": 79
+	},
+	"If you took a gap year, why did you choose to take one?": {
+		"labels": [
+			"Retook the 1A term",
+			"There were a lot of factors: High school burnout, wanted to take a break before I went into another 4 years of education. Desire to travel (that didn't work out lmao). Wanted to meet relatives one last time. Wanted to strengthen my programming skills more outside of school before heading straight in. Wanted to \"find myself\" a bit more through things I didn't have the chance to do in high school. Didn't want to leave the city because my best friends at the time were staying."
+		],
+		"counts": [
+			1,
+			1
+		],
+		"n": 2
+	},
+	"What was your high school adjustment factor?": {
+		"labels": [
+			"7.9",
+			"9.7",
+			"10.1",
+			"10.5",
+			"10.9",
+			"11.7",
+			"11.8",
+			"12",
+			"12.5",
+			"12.7",
+			"12.8",
+			"12.9",
+			"13",
+			"13.1",
+			"13.8",
+			"14.2",
+			"14.4",
+			"15.7",
+			"15.9",
+			"16",
+			"16.3",
+			"16.6",
+			"16.7",
+			"16.9",
+			"18.5",
+			"20"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			6,
+			4,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			2,
+			7,
+			14,
+			3,
+			1,
+			7,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 64
+	},
+	"What was your high school admissions average?": {
+		"labels": [
+			"88.5",
+			"91",
+			"93.33",
+			"94.5",
+			"95",
+			"95.6",
+			"96",
+			"96.2",
+			"96.5",
+			"97",
+			"97.3",
+			"97.5",
+			"97.67",
+			"97.8",
+			"97.83",
+			"98",
+			"98.3",
+			"99",
+			"99.4"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			6,
+			1,
+			7,
+			2,
+			1,
+			12,
+			1,
+			3,
+			1,
+			1,
+			1,
+			20,
+			2,
+			9,
+			1
+		],
+		"n": 72
+	},
+	"Did you play any sports in high school?": {
+		"labels": [
+			"Badminton",
+			"Basketball",
+			"Cross Country",
+			"Curling",
+			"Dance",
+			"Dragon Boat",
+			"Field Hockey",
+			"Gym",
+			"Gymnastics",
+			"Hockey",
+			"Rock Climbing",
+			"Roller Skating",
+			"Soccer",
+			"Swimming",
+			"Table Tennis",
+			"Tennis",
+			"Track & Field",
+			"Ultimate Frisbee",
+			"Volleyball"
+		],
+		"counts": [
+			21,
+			9,
+			7,
+			3,
+			1,
+			1,
+			1,
+			1,
+			2,
+			3,
+			1,
+			1,
+			5,
+			10,
+			2,
+			2,
+			6,
+			4,
+			5
+		],
+		"n": 49
+	},
+	"Have you ever considered dropping out?": {
+		"labels": [
+			"No",
+			"Yes"
+		],
+		"counts": [
+			70,
+			9
+		],
+		"n": 79
+	},
+	"Have you ever considered switching out of SE? If so, to which program/school?": {
+		"labels": [
+			"UW CS",
+			"UW CS or UBC CS",
+			"UW Mechatronics Engineering",
+			"UWO Medical Science"
+		],
+		"counts": [
+			44,
+			1,
+			1,
+			1
+		],
+		"n": 47
+	},
+	"If you had to start again, what school/program would you enrol in?": {
+		"labels": [
+			"Economics",
+			"McGill ArtSci",
+			"UC Berkeley",
+			"UW CS",
+			"UW CS or Mac Healthsci",
+			"UW CS or UW SE",
+			"UW SE"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			11,
+			1,
+			3,
+			43
+		],
+		"n": 61
+	},
+	"Did you do any options as part of your degree?": {
+		"labels": [
+			"AI"
+		],
+		"counts": [
+			1
+		],
+		"n": 1
+	},
+	"Did you do any specializations as part of your degree?": {
+		"labels": [
+			"AI",
+			"HCI"
+		],
+		"counts": [
+			2,
+			9
+		],
+		"n": 11
+	},
+	"Did you minor in anything as part of your degree?": {
+		"labels": [
+			"Cognitive Science",
+			"Combinatorics and Optimization",
+			"Computational Mathematics",
+			"Music"
+		],
+		"counts": [
+			1,
+			2,
+			1,
+			1
+		],
+		"n": 4
+	},
+	"Did you train in a sport competitively during your undergrad?": {
+		"labels": [
+			"Badminton",
+			"Curling",
+			"Dragon Boating",
+			"Hockey"
+		],
+		"counts": [
+			2,
+			1,
+			1,
+			1
+		],
+		"n": 5
+	},
+	"On average, when do you go to sleep?": {
+		"labels": [
+			"0:00:00",
+			"1:00:00",
+			"1:30:00",
+			"22:00:00",
+			"22:30:00",
+			"23:00:00",
+			"23:30:00",
+			"23:45:00",
+			"2:00:00",
+			"2:30:00",
+			"3:00:00",
+			"4:00:00",
+			"5:00:00"
+		],
+		"counts": [
+			12,
+			13,
+			4,
+			1,
+			1,
+			7,
+			2,
+			1,
+			17,
+			3,
+			13,
+			3,
+			1
+		],
+		"n": 78
+	},
+	"Did you go on exchange?": {
+		"labels": [
+			"No",
+			"Yes"
+		],
+		"counts": [
+			56,
+			23
+		],
+		"n": 79
+	},
+	"Which term did you go on exchange?": {
+		"labels": [
+			"3B",
+			"4A"
+		],
+		"counts": [
+			21,
+			2
+		],
+		"n": 23
+	},
+	"Which university did you go to on exchange?": {
+		"labels": [
+			"Charles III University of Madrid (UC3M)",
+			"ETH Zurich",
+			"Hong Kong University (HKU)",
+			"Hong Kong University of Science and Technology (HKUST)",
+			"Korea Advanced Institute of Science & Technology (KAIST)",
+			"National University of Singapore (NUS)",
+			"Norwegian University of Science and Technology (NTNU)",
+			"Singapore University of Technology and Design (SUTD)",
+			"Technical University of Denmark (DTU)",
+			"University College London (UCL)",
+			"University of Liverpool (UOL)",
+			"\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)"
+		],
+		"counts": [
+			3,
+			1,
+			1,
+			1,
+			1,
+			3,
+			1,
+			1,
+			7,
+			2,
+			1,
+			1
+		],
+		"n": 23
+	},
+	"How high was your workload during exchange?": {
+		"labels": [
+			"Significantly less",
+			"Somewhat less",
+			"About the same",
+			"Somewhat more",
+			"Significantly more"
+		],
+		"counts": [
+			19,
+			3,
+			0,
+			0,
+			1
+		],
+		"n": 23
+	},
+	"How stressed were you during exchange?": {
+		"labels": [
+			"Significantly less",
+			"Somewhat less",
+			"About the same",
+			"Somewhat more",
+			"Significantly more"
+		],
+		"counts": [
+			19,
+			3,
+			1,
+			0,
+			0
+		],
+		"n": 23
+	},
+	"Favourite part of going on exchange?": {
+		"labels": [
+			"Being able to travel to over a dozen different countries during the school term",
+			"Experiencing Europe",
+			"Exploring the world with my significant other with basically no educational worries",
+			"Getting to experience life in Europe",
+			"Getting to explore Singapore - I would choose different places to visit or things to do on a whim, including squeezing things in right after school",
+			"Having the time to travel not just in Hong Kong but also neighbouring countries (Asia tour !)",
+			"Making friends and learning about what student life was supposed to feel like for the first time in my life",
+			"Meeting new people and exploring a different continent",
+			"My grades dont matter",
+			"Not living in Waterloo",
+			"Opportunity to travel and explore Europe",
+			"Reduced stress from school, the country I was in was also extremely nice and I met some great people but the importance of not dying from coursework can't be overstated",
+			"Travelling",
+			"Travelling and living in Europe",
+			"Travelling! Europe any% speedrun",
+			"Travelling, good food"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			6,
+			1,
+			1,
+			1
+		],
+		"n": 21
+	},
+	"Hardest thing about going on exchange?": {
+		"labels": [
+			"Bad transit by university making it hard to get around",
+			"Balancing co-op search with having fun",
+			"Being away from friends and VISA issues",
+			"Dealing with Waterloo-related work (capstone course/SE 390, job search) with a 12-hour time zone difference. The interview schedule was... not good.",
+			"Finding course equivalencies",
+			"Getting visa stuff sorted was really annoying",
+			"Home sickness",
+			"I think it was really just all the research that I had to do in 2B co-op and leading up to it, the paperwork and logistics to be done the summer right before it. Other than that facing being ill in a foreign country.",
+			"Initially settling into a new country",
+			"Living alone and abroad, not knowing anyone",
+			"Living so far and in a different time zone than everyone im close to",
+			"Loneliness",
+			"Not knowing a single person going with me",
+			"Not knowing anyone else and throwing yourself into a foreign place (culture shock)",
+			"Not speaking German",
+			"Nothing really - there were some logistical challenges, but they're not hard. There's plenty of guidance and support available.",
+			"Still needing to write exams",
+			"The cold, the initial loneliness",
+			"Time zone diff",
+			"being away from friends and family"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 20
+	},
+	"Most valuable thing you took away from exchange?": {
+		"labels": [
+			"Bikes are great",
+			"Breaking the waterloo syndrome of all work no fun - plus becoming more spontaneous",
+			"Friends, experiences, even more independence",
+			"Have fun",
+			"How to be more independent",
+			"How to be more independent, people find a way to make it through tough times",
+			"How to get out of the SE rat race and why money doesn't matter as much as you'd think.",
+			"I didn't enjoy the European lifestyle as much as I thought I would",
+			"Independence and making new friends all by myself in a new city!",
+			"Life is short",
+			"Life is short do the new fun things when you\u2019re young while you can",
+			"School matters less than the experiences you take away while at school",
+			"The ability to make travel plans really quickly and figure out how to use public transportation in Europe lmao",
+			"The memories :)",
+			"The world is so so big, there are many experiences and opportunities outside of North America and ppl from around the world live such different lives",
+			"Theres so much to see and experience in the world",
+			"You can do a lot (and have a lot of fun) if you're willing to open your mind and put in the effort to make things happen! Trying different things can surprise you, usually in a good way if you're willing to take a good lesson out of things.",
+			"a sense of freedom that stays with me",
+			"as much as I'd like to say cultural knowledge or new experiences, it was probably avoiding cs343",
+			"perspective and space to reflect on a different lifestyle (madrid life is very slow), spending time/money and what\u2019s important"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 20
+	},
+	"Stream 8 vs 8x vs 8y": {
+		"labels": [
+			"Other",
+			"Stream 8",
+			"Stream 8x",
+			"Stream 8y"
+		],
+		"counts": [
+			1,
+			18,
+			57,
+			3
+		],
+		"n": 79
+	},
+	"What language do you use for programming interviews?": {
+		"labels": [
+			"C++",
+			"Java",
+			"JavaScript",
+			"Python",
+			"TypeScript"
+		],
+		"counts": [
+			13,
+			5,
+			9,
+			64,
+			1
+		],
+		"n": 76
+	},
+	"Have you ever been late to a co-op interview?": {
+		"labels": [
+			"No",
+			"Yes"
+		],
+		"counts": [
+			62,
+			16
+		],
+		"n": 78
+	},
+	"Have you ever missed a co-op interview?": {
+		"labels": [
+			"No",
+			"Yes"
+		],
+		"counts": [
+			64,
+			14
+		],
+		"n": 78
+	},
+	"Any fun interview stories?": {
+		"labels": [
+			"1. Had an interviewer grill me for 25 minutes on random trivia about programming practices. Dodged a bullet.\r\n2. Was asked about the purpose of a company\u2019s primary product, commented on the company\u2019s architecture. The interviewer said \u201cwow\u201d under his breath and wrote something down. It was the only thing he wrote down, and the only time this ever happened (I\u2019m not cracked) and I got the job :)",
+			"A QA position I interviewed for in 1B held all of the interviews on the same Zoom meeting. I joined a few minutes early as I usually do but ended up having to awkwardly sit through the last moments of the previous candidate's interview. The same thing then happened to me at the end of my interview. The interviewer asked me straight up whether I would take the job or not, and I'm pretty sure the fact that I hesitated was the reason why I wasn't ranked.",
+			"Absolutely bombed a simple interview because I forgot to study DB stuff, like who just remember what left outer join does for fun. Just show me the ven-diagram picture man",
+			"Had an interview scheduled for 12PM, interviewer wanted to reschedule to 4PM, I said okay. By 2PM they sent me an email saying they had found a candidate.",
+			"I had to do my final Engineering Manager interview (which was an additional EM round bc the first guy talked too much and we couldn\u2019t get deep enough in my resume) and I was in exchange with my SIGNIFICANT OTHER and we got brunch right before with a friend but I was nervous so I drank 2 mimosas and made them go on a walk around the neighbourhood - best interview of my life actually",
+			"I instantly wrote 69 as a test case when asked for larger inputs. I don't think the interviewer noticed and I quickly changed it",
+			"I interviewed for a ML position, without having any experience in ML. 10 minutes in the interview and the interviewer asked me to explain a ML concept in simple terms. I debated for a second and then just decided to be honest and told him \"I don't know\". i told him that I could google it and tell him, but I wouldn't know it otherwise. he started laughing, we had a good laugh about it and then he just ended the interview 15 minutes early.",
+			"I once called a company a used car salesman. I also once arrived 30 minutes late, asked for the salary and then said \"oh oops sorry i didnt want it anyways\".",
+			"In-person interview at CECA. I was there 15 minutes early, my interviewer was also there on time. The person at the front desk at CECA somehow didn't call my name until I went and asked about my interview, by which point I was 30 minutes late to the interview.",
+			"Interviewed with an upper year SE for his company on waterlooworks at the time",
+			"Interviewer asked if I was adventurous, or liked trying new experiences/foods, and I mentioned I was planning to try Takoyaki, aka octopus balls. The interviewer gave me a funny look, and asked \"as in... like the part of the octopus?\" Found it very funny after I clarified they're balls of batter and octopus meat.",
+			"Interviewer left me alone in the interview call for 30 minutes",
+			"Interviewer showed up and asked a question I just got asked 30 minutes ago by the previous interviewer (2 interviews back to back for the same company). Was truthful and told them I got asked the question already so they gave me another one. Ended up getting by offer :)",
+			"Joined one of my interviews on my alt email as Bob Ross",
+			"Multiple occasions where I would take the interview first and launder the questions to friends :P\r\n\r\nI once did 60+ interview rounds during a single hiring cycle\r\n\r\nI once interviewed at [NYC quant firm] where my interviewer paused the interview halfway through to go and yell at someone over the phone for five minutes (their video was on but thankfully the audio was muted)\r\n\r\nMet lots of psycho interviewers at quant firms D:\r\n\r\nOne startup once asked me an IOI question from the early 2000s :grimace:",
+			"My first job interview, I fumbled the reverse palindrome question despite having solved it before.",
+			"No",
+			"No :(",
+			"No they were all suffering",
+			"One company asked me animal care questions",
+			"One of the reasons I got my first co-op was because when my interviewer recommended a book, I pulled it off my bookshelf behind me with the bookmark still in it and said I enjoyed it as well. I never finished reading that book.",
+			"One time I brought up esports / gaming with my interviewer and we ended up talking about it for the rest of the interview",
+			"One time the fire alarm went off in the middle of my interview and I had to evacuate the building. And then I was doing the interview outside while being evacuated from the building.",
+			"The leetcode had an O(n) solution and I implemented it in O(n^2), I bombed both questions so badly that the interviewers were speechless and barely tried to say anything.",
+			"forgot about an interview to come 15 minutes late and not get the job",
+			"interviewer never joined the call, ended up postponing to another day. fire alarm repair ppl enter my room while I'm interviewing and do their thing in the background while I code.",
+			"my first ever interview was a technical interview where they had me code in google docs. i did not get the job",
+			"while on exchange, I had to do an interview in the middle of the airport and needed to pause halfway because someone was asking for directions in spanish (no hablo espanol lo siento!!)."
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 28
+	},
+	"How did you find your co-op?": {
+		"labels": [],
+		"counts": [],
+		"n": 0
+	},
+	"What was your co-op role?": {
+		"labels": [],
+		"counts": [],
+		"n": 0
+	},
+	"What company did you work at?": {
+		"labels": [],
+		"counts": [],
+		"n": 0
+	},
+	"How many employees worked at your company?": {
+		"labels": [],
+		"counts": [],
+		"n": 0
+	},
+	"Which industry was your co-op employer in?": {
+		"labels": [],
+		"counts": [],
+		"n": 0
+	},
+	"What was your hourly co-op salary?": {
+		"labels": [],
+		"counts": [],
+		"n": 0
+	},
+	"Where was your co-op?": {
+		"labels": [],
+		"counts": [],
+		"n": 0
+	},
+	"What programming languages did you use at your co-op?": {
+		"labels": [],
+		"counts": [],
+		"n": 0
+	},
+	"What would you rate your co-op experience?": {
+		"labels": [],
+		"counts": [],
+		"n": 0
+	},
+	"Favourite overall co-op city?": {
+		"labels": [
+			"Austin",
+			"Bellevue",
+			"Boston",
+			"Cambridge, MA",
+			"Montreal",
+			"Mountain View",
+			"New York",
+			"Palo Alto",
+			"Remote",
+			"San Francisco",
+			"San Jose",
+			"San Mateo",
+			"Seattle",
+			"Singapore",
+			"Tokyo",
+			"Toronto",
+			"Vancouver",
+			"Waterloo"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			3,
+			1,
+			15,
+			1,
+			2,
+			9,
+			1,
+			1,
+			1,
+			1,
+			1,
+			16,
+			1,
+			2
+		],
+		"n": 58
+	},
+	"Anything else co-op related you'd like to add?": {
+		"labels": [
+			"All my coops were remote, I hated it at first but learned to make the most of it by travelling towards my last coop.",
+			"Apply early, apply often, apply to things you don't think you'll get",
+			"Ask questions early on because you will look MORE dumb the later you ask speaking from EXPERIENCE\r\n\r\nGo for breadth in co-ops and don\u2019t be afraid to take on funky projects because they stand out in a good way !\r\n\r\nPrioritize natural friendships in your internships and genuinely make sure you are having fun or else you are doing it wrong \ud83d\ude11 ",
+			"Be ballsy, just straight up reject all the offers you are not interested in. Try to find a place you  feel like home",
+			"Cali overtime regulations are very intern-friendly! recommend maxing them out whenever possible",
+			"EU/Japan coops were totally worth it (although definitely was not revenue positive)",
+			"For work: don't be afraid to ask questions, but try and figure the problem out yourself before going to someone for help, if only so that you can tell them what you've already tried, which will help point both of you in the right direction. Telegraph every design decision you make and document everything you do.\r\n\r\nOutside of work: try, as much as you can, to approach everything with excitement and an open mind. Co-op is a wonderful opportunity to meet new people, try new things, and experience new cities - take advantage of that whenever you can!",
+			"I wish I applied external more, I wish I fixed my resume earlier, I wish I tried to learn from my coops instead of just doing my hours",
+			"Infra is the way. Never give your soul to a company. Make friends, go out, see the world.",
+			"Keep applying, even after exams finish",
+			"Network",
+			"Never give up and stay ambitious",
+			"SF Sucks",
+			"Start leetcoding early",
+			"To the people looking for their first co-ops - this is hard! Harder than they make it seem! Don't get too discouraged if you don't make it in the first round, or second, or at all - as long as you don't get complacent, these situations are recoverable.",
+			"Try and find work that you like and are good at :D",
+			"Try different things",
+			"Try to make friends",
+			"Try to make local friends especially people who don't work in tech or go to Waterloo",
+			"Wish I'd applied more to in-person jobs and/or external stuff but at the end of the day it is what it is",
+			"a lot of what you learn is really what you make of the co-op, go off and do ambitious things, ask to be put on projects you find interesting, you get to control your growth",
+			"really enjoyed living in different cities and the diversity of experience \u2014 would definitely recommend prioritizing trying new things on co-op!"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 22
+	},
+	"Favourite colour (as a hex code)?": {
+		"labels": [
+			"#000000",
+			"#004225",
+			"#008080",
+			"#008C8D",
+			"#00ddc0",
+			"#0253e0",
+			"#051094",
+			"#0c3b23",
+			"#104d2d",
+			"#12674A",
+			"#130053",
+			"#13973b",
+			"#1cb0ff",
+			"#305cde",
+			"#44DDEE",
+			"#7168E8",
+			"#87CEEB",
+			"#87ceeb",
+			"#9600fa",
+			"#9C5AB4",
+			"#AFEEEE",
+			"#B80A00",
+			"#C8A2C8",
+			"#CCCCFF",
+			"#DC143C",
+			"#FF0000",
+			"#FF6666",
+			"#FF69B4",
+			"#FFA500",
+			"#FFDBE9",
+			"#FFEA00",
+			"#FFFFFF",
+			"#a147d1",
+			"#b4dd1e",
+			"#bedef7",
+			"#bff8ff",
+			"#cc6fe8",
+			"#cdcdcd",
+			"#e2eeda",
+			"#e4cfff",
+			"#f23de9",
+			"#f28048",
+			"#f7cc0a",
+			"#fcad03",
+			"#ff0000",
+			"#ffcce1"
+		],
+		"counts": [
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 47
+	},
+	"What social media/messaging apps do you use?": {
+		"labels": [
+			"BeReal",
+			"BlueSky",
+			"Discord",
+			"Facebook",
+			"Instagram",
+			"Messenger",
+			"Reddit",
+			"Signal",
+			"Snapchat",
+			"TikTok",
+			"Tumblr",
+			"Twitter",
+			"WeChat",
+			"WhatsApp"
+		],
+		"counts": [
+			11,
+			2,
+			71,
+			19,
+			63,
+			39,
+			57,
+			23,
+			12,
+			13,
+			4,
+			27,
+			19,
+			30
+		],
+		"n": 77
+	},
+	"Favourite Emoji?": {
+		"labels": [
+			"\u203d",
+			"\ud83c\udd92",
+			"\ud83c\udf1a",
+			"\ud83c\udf38",
+			"\ud83d\udc00",
+			"\ud83d\udc4d",
+			"\ud83d\udc7a",
+			"\ud83d\udc80",
+			"\ud83d\udc85",
+			"\ud83d\udca0",
+			"\ud83d\udd25",
+			"\ud83d\uddff",
+			"\ud83d\ude00",
+			"\ud83d\ude05",
+			"\ud83d\ude0c",
+			"\ud83d\ude0e",
+			"\ud83d\ude0f",
+			"\ud83d\ude14",
+			"\ud83d\ude17",
+			"\ud83d\ude1c",
+			"\ud83d\ude29",
+			"\ud83d\ude2d",
+			"\ud83d\ude32",
+			"\ud83d\ude33",
+			"\ud83d\ude48",
+			"\ud83e\udd20",
+			"\ud83e\udd29",
+			"\ud83e\udd2a",
+			"\ud83e\udd2f",
+			"\ud83e\udd37",
+			"\ud83e\udd70",
+			"\ud83e\udd72",
+			"\ud83e\udd75",
+			"\ud83e\udd7a",
+			"\ud83e\udd9d",
+			"\ud83e\udda6",
+			"\ud83e\udda7",
+			"\ud83e\uddcd\ud83c\udffe",
+			"\ud83e\uddd0",
+			"\ud83e\udee0",
+			"\ud83e\udee1",
+			"\ud83e\udef6"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			3,
+			2,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			3,
+			1,
+			1,
+			2,
+			1,
+			1,
+			3,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			3,
+			1,
+			1
+		],
+		"n": 56
+	},
+	"What pets do you have?": {
+		"labels": [
+			"Budgies",
+			"Bunnies",
+			"Cat",
+			"Cats",
+			"Dog",
+			"Fish",
+			"Pet Rocks",
+			"Snail",
+			"Turtles"
+		],
+		"counts": [
+			1,
+			1,
+			9,
+			2,
+			8,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 24
+	},
+	"Which OS do you use for schoolwork?": {
+		"labels": [
+			"Arch Linux",
+			"Fedora",
+			"MacOS",
+			"Nixos",
+			"Ubuntu",
+			"WSL",
+			"WSL and Remote CS environment Linux",
+			"Windows"
+		],
+		"counts": [
+			1,
+			1,
+			49,
+			1,
+			3,
+			1,
+			1,
+			30
+		],
+		"n": 78
+	},
+	"What is your daily browser?": {
+		"labels": [
+			"Arc",
+			"Firefox",
+			"Google Chrome",
+			"Microsoft Edge",
+			"Safari",
+			"Zen"
+		],
+		"counts": [
+			9,
+			10,
+			50,
+			2,
+			5,
+			1
+		],
+		"n": 77
+	}
+}

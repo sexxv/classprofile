@@ -1,0 +1,100 @@
+.about {
+	font-family: var(--font-jersey-10);
+	padding: 80px;
+	font-size: 18px;
+	font-family: var(--font-athiti);
+
+	color: var(--font-color);
+}
+
+.section {
+	width: min(100%, max(600px, 50%));
+}
+
+.section p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.space {
+	height: 400px;
+}
+
+.se25image {
+	border: solid;
+	border-style: groove;
+	border-width: 1vw;
+}
+
+.se25TopImage {
+	margin-bottom: -70px;
+	margin-left: 240px;
+}
+
+.aboutTitleWithBreakpoint {
+	margin-top: 120px;
+}
+
+.aboutSection {
+	display: flex;
+	flex-direction: row;
+	color: "white";
+
+	.textPart {
+		width: min(100%, max(600px, 50%));
+	}
+
+	.nGraph {
+		width: max(500px, 40%);
+		display: flex;
+		align-items: center;
+		height: 100%;
+		margin-top: 120px;
+	}
+
+	.nGraph > svg {
+		height: 80%;
+	}
+}
+
+@media (max-width: 800px) {
+	.about {
+		font-family: var(--font-jersey-10);
+		padding: 30px;
+		font-size: 18px;
+		font-family: var(--font-athiti);
+
+		color: var(--font-color);
+	}
+
+	.aboutTitleWithBreakpoint {
+		margin-top: -30px;
+	}
+
+	.se25TopImage {
+		margin-top: 30px;
+		margin-bottom: 30px;
+		margin-left: 0px;
+	}
+
+	.nGraph {
+		margin-top: 30px !important;
+	}
+}
+
+/*
+ * Make this pie graph move down at a larger screen size threshold 
+ * (compared to the SurveyPart graphs)
+ * since the pie gets absurdly small otherwise
+ */
+@media (max-width: 1200px) {
+	.aboutSection {
+		display: flex;
+		flex-direction: column;
+
+		.nGraph {
+			padding-top: 0;
+			width: min(100%, max(600px, 50%));
+		}
+	}
+}

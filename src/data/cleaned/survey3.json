@@ -1,0 +1,1685 @@
+{
+	"What is your religious and/or spiritual affiliation?": {
+		"labels": [
+			"Agnostic",
+			"Atheist",
+			"Buddhist",
+			"Catholic",
+			"Christian",
+			"Hindu",
+			"Jewish",
+			"Muslim",
+			"Orthodox Christian",
+			"Prefer not to specify",
+			"Unsure"
+		],
+		"counts": [
+			19,
+			21,
+			1,
+			1,
+			5,
+			3,
+			1,
+			9,
+			1,
+			1,
+			1
+		],
+		"n": 58
+	},
+	"What is your sexual orientation?": {
+		"labels": [
+			"Asexual",
+			"Bisexual",
+			"Heterosexual/Straight",
+			"Homosexual/Gay/Lesbian",
+			"Questioning/Unsure"
+		],
+		"counts": [
+			4,
+			6,
+			47,
+			2,
+			2
+		],
+		"n": 58
+	},
+	"How many classes did you fail?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"counts": [
+			54,
+			1,
+			4,
+			1
+		],
+		"n": 60
+	},
+	"If you failed a class, which class did you fail?": {
+		"labels": [
+			"CHE 102",
+			"CS 137",
+			"CS 138",
+			"CS 348",
+			"CS 349",
+			"MATH 115",
+			"MATH 117",
+			"MATH 213",
+			"MATH 239",
+			"PD 19",
+			"SE 212"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 6
+	},
+	"How many midterms did you fail?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"9"
+		],
+		"counts": [
+			26,
+			13,
+			11,
+			3,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 57
+	},
+	"How many finals did you fail?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"counts": [
+			42,
+			9,
+			3,
+			1
+		],
+		"n": 55
+	},
+	"Have you ever been arrested?": {
+		"labels": [
+			"No"
+		],
+		"counts": [
+			59
+		],
+		"n": 59
+	},
+	"What counselling resources did you use during your undergrad?": {
+		"labels": [
+			"Counselling services outside of UW",
+			"Engineering Undergraduate First Year Office",
+			"UW Counselling Services (including Empower Me)",
+			"Victoria Sakhnini"
+		],
+		"counts": [
+			7,
+			1,
+			12,
+			1
+		],
+		"n": 15
+	},
+	"Have you ever been to therapy?": {
+		"labels": [
+			"No",
+			"Yes"
+		],
+		"counts": [
+			40,
+			18
+		],
+		"n": 58
+	},
+	"How many school terms were you affected by struggles associated with mental health?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8",
+			"10"
+		],
+		"counts": [
+			13,
+			9,
+			8,
+			6,
+			8,
+			1,
+			1,
+			3,
+			4,
+			2
+		],
+		"n": 55
+	},
+	"What mental health issues have you faced? [Anxiety]": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			19,
+			24
+		],
+		"n": 43
+	},
+	"What mental health issues have you faced? [Body Dysmorphia]": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			34,
+			9
+		],
+		"n": 43
+	},
+	"What mental health issues have you faced? [Burnout]": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			9,
+			34
+		],
+		"n": 43
+	},
+	"What mental health issues have you faced? [Depression]": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			19,
+			24
+		],
+		"n": 43
+	},
+	"What mental health issues have you faced? [Eating Disorders]": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			39,
+			4
+		],
+		"n": 43
+	},
+	"What mental health issues have you faced? [Grief]": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			39,
+			4
+		],
+		"n": 43
+	},
+	"What mental health issues have you faced? [OCD]": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			42,
+			1
+		],
+		"n": 43
+	},
+	"What mental health issues have you faced? [Neurodivergence (ADHD, Autism, etc.)]": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			35,
+			8
+		],
+		"n": 43
+	},
+	"What mental health issues have you faced? [Post-traumatic Stress Disorder (PTSD) / Complex post-traumatic Stress Disorder (CPTSD)]": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			40,
+			3
+		],
+		"n": 43
+	},
+	"What mental health issues have you faced? [Social Anxiety Disorder]": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			36,
+			7
+		],
+		"n": 43
+	},
+	"What mental health issues have you faced? [PMDD]": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			42,
+			1
+		],
+		"n": 43
+	},
+	"What mental health issues have you faced? [Body-Focused Repetitive Behaviour]": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			42,
+			1
+		],
+		"n": 43
+	},
+	"What mental health issues have you faced? [None]": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			37,
+			6
+		],
+		"n": 43
+	},
+	"Which drugs have you used? [Alcohol]": {
+		"labels": [
+			"First used before university",
+			"First used during university",
+			"Never used"
+		],
+		"counts": [
+			35,
+			16,
+			7
+		],
+		"n": 58
+	},
+	"Which drugs have you used? [Caffeine]": {
+		"labels": [
+			"First used before university",
+			"First used during university",
+			"Never used"
+		],
+		"counts": [
+			51,
+			4,
+			4
+		],
+		"n": 59
+	},
+	"Which drugs have you used? [Nicotine and Tobacco]": {
+		"labels": [
+			"First used before university",
+			"First used during university",
+			"Never used"
+		],
+		"counts": [
+			3,
+			7,
+			39
+		],
+		"n": 49
+	},
+	"Which drugs have you used? [Weed (THC)]": {
+		"labels": [
+			"First used before university",
+			"First used during university",
+			"Never used"
+		],
+		"counts": [
+			2,
+			21,
+			30
+		],
+		"n": 53
+	},
+	"Which drugs have you used? [Adderall/Ritalin (unprescribed)]": {
+		"labels": [
+			"First used during university",
+			"Never used"
+		],
+		"counts": [
+			5,
+			42
+		],
+		"n": 47
+	},
+	"Which drugs have you used? [Mushrooms]": {
+		"labels": [
+			"First used during university",
+			"Never used"
+		],
+		"counts": [
+			3,
+			47
+		],
+		"n": 50
+	},
+	"Which drugs have you used? [LSD]": {
+		"labels": [
+			"First used during university",
+			"Never used"
+		],
+		"counts": [
+			1,
+			48
+		],
+		"n": 49
+	},
+	"Which drugs have you used? [Cocaine]": {
+		"labels": [
+			"Never used"
+		],
+		"counts": [
+			49
+		],
+		"n": 49
+	},
+	"Drank alcohol, taken an edible, or done another drug in class?": {
+		"labels": [
+			"No",
+			"Yes, drank",
+			"Yes, eaten edible",
+			"Yes, drugged"
+		],
+		"counts": [
+			56,
+			4,
+			0,
+			0
+		],
+		"n": 60
+	},
+	"Written a final drunk, hungover, high or on another drug?": {
+		"labels": [
+			"No",
+			"Yes, drunk",
+			"Yes, hungover",
+			"Yes, high",
+			"Yes, otherwise drugged"
+		],
+		"counts": [
+			57,
+			0,
+			1,
+			0,
+			2
+		],
+		"n": 60
+	},
+	"How many romantic relationships have you been in during your degree?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5"
+		],
+		"counts": [
+			13,
+			20,
+			14,
+			4,
+			3,
+			2
+		],
+		"n": 56
+	},
+	"How many months of your degree have you spent in a romantic relationship?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"6",
+			"7",
+			"8",
+			"11",
+			"12",
+			"15",
+			"16",
+			"18",
+			"20",
+			"24",
+			"27",
+			"30",
+			"31",
+			"33",
+			"34",
+			"36",
+			"37",
+			"40",
+			"41",
+			"42",
+			"44",
+			"46",
+			"55"
+		],
+		"counts": [
+			13,
+			1,
+			4,
+			1,
+			2,
+			1,
+			1,
+			1,
+			3,
+			2,
+			5,
+			1,
+			1,
+			2,
+			1,
+			3,
+			1,
+			1,
+			1,
+			3,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 55
+	},
+	"What dating apps did you use while in university?": {
+		"labels": [
+			"Bumble",
+			"Grindr",
+			"Hinge",
+			"Salams",
+			"Tinder",
+			"Did not use dating apps"
+		],
+		"counts": [
+			9,
+			1,
+			20,
+			1,
+			9,
+			34
+		],
+		"n": 56
+	},
+	"Did you ever participate in the Aphrodite project?": {
+		"labels": [
+			"Yes - relationship pool",
+			"Yes - friendship pool",
+			"Never participated in Aphrodite"
+		],
+		"counts": [
+			27,
+			12,
+			24
+		],
+		"n": 57
+	},
+	"Which relationship/intimacy actions have you performed? [Held hands romantically]": {
+		"labels": [
+			"Before university",
+			"During university",
+			"Never performed"
+		],
+		"counts": [
+			27,
+			24,
+			7
+		],
+		"n": 49
+	},
+	"Which relationship/intimacy actions have you performed? [Been on a date]": {
+		"labels": [
+			"Before university",
+			"During university",
+			"Never performed"
+		],
+		"counts": [
+			27,
+			23,
+			7
+		],
+		"n": 49
+	},
+	"Which relationship/intimacy actions have you performed? [Kissed someone romantically]": {
+		"labels": [
+			"Before university",
+			"During university",
+			"Never performed"
+		],
+		"counts": [
+			22,
+			24,
+			9
+		],
+		"n": 48
+	},
+	"Which relationship/intimacy actions have you performed? [Been in a committed relationship]": {
+		"labels": [
+			"Before university",
+			"During university",
+			"Never performed"
+		],
+		"counts": [
+			20,
+			28,
+			8
+		],
+		"n": 49
+	},
+	"Which relationship/intimacy actions have you performed? [Been in a long-distance relationship]": {
+		"labels": [
+			"Before university",
+			"During university",
+			"Never performed"
+		],
+		"counts": [
+			9,
+			26,
+			17
+		],
+		"n": 49
+	},
+	"Which relationship/intimacy actions have you performed? [Been in a situationship]": {
+		"labels": [
+			"Before university",
+			"During university",
+			"Never performed"
+		],
+		"counts": [
+			3,
+			18,
+			25
+		],
+		"n": 45
+	},
+	"Which relationship/intimacy actions have you performed? [Sent/received nudes]": {
+		"labels": [
+			"Before university",
+			"During university",
+			"Never performed"
+		],
+		"counts": [
+			8,
+			13,
+			24
+		],
+		"n": 42
+	},
+	"Which relationship/intimacy actions have you performed? [Engaged in sexual intercourse]": {
+		"labels": [
+			"Before university",
+			"During university",
+			"Never performed"
+		],
+		"counts": [
+			9,
+			22,
+			18
+		],
+		"n": 46
+	},
+	"Which relationship/intimacy actions have you performed? [Hooked up with someone]": {
+		"labels": [
+			"Before university",
+			"During university",
+			"Never performed"
+		],
+		"counts": [
+			1,
+			15,
+			27
+		],
+		"n": 42
+	},
+	"Which relationship/intimacy actions have you performed? [Had a threesome]": {
+		"labels": [
+			"During university",
+			"Never performed"
+		],
+		"counts": [
+			2,
+			38
+		],
+		"n": 40
+	},
+	"Have you been involved in romantic cheating during your degree?": {
+		"labels": [
+			"No",
+			"Yes, cheated\non someone",
+			"Yes, was\n cheated on",
+			"Yes, helped\nsomeone cheat"
+		],
+		"counts": [
+			51,
+			1,
+			3,
+			1
+		],
+		"n": 56
+	},
+	"How many sexual partners did you have during your degree?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"6",
+			"10",
+			"12"
+		],
+		"counts": [
+			18,
+			11,
+			8,
+			5,
+			3,
+			2,
+			1,
+			1
+		],
+		"n": 49
+	},
+	"Have you ever done a naughty act in the SE Lounge/Labs?": {
+		"labels": [
+			"No",
+			"Yes"
+		],
+		"counts": [
+			49,
+			4
+		],
+		"n": 53
+	},
+	"Rice purity test score?": {
+		"labels": [
+			"29",
+			"32",
+			"33",
+			"37",
+			"38",
+			"43",
+			"44",
+			"45",
+			"47",
+			"48",
+			"51",
+			"52",
+			"53",
+			"57",
+			"58",
+			"62",
+			"65",
+			"67",
+			"73",
+			"74",
+			"75",
+			"79",
+			"83",
+			"85",
+			"86",
+			"92",
+			"93",
+			"95",
+			"96"
+		],
+		"counts": [
+			1,
+			2,
+			1,
+			2,
+			1,
+			3,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			2,
+			2,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1
+		],
+		"n": 38
+	},
+	"What was your rice purity test before university?": {
+		"labels": [
+			"35",
+			"38",
+			"45",
+			"56",
+			"62",
+			"63",
+			"64",
+			"67",
+			"69",
+			"74",
+			"78",
+			"79",
+			"83",
+			"85",
+			"89",
+			"90",
+			"91",
+			"92",
+			"93",
+			"94",
+			"95",
+			"96",
+			"97"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			2,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			2,
+			2,
+			4,
+			3,
+			3,
+			2
+		],
+		"n": 37
+	},
+	"What is your iron ring size?": {
+		"labels": [
+			"2",
+			"2.5",
+			"3",
+			"3.5",
+			"4",
+			"4.5",
+			"5",
+			"5.5",
+			"6",
+			"7",
+			"7.5",
+			"8"
+		],
+		"counts": [
+			1,
+			3,
+			3,
+			5,
+			10,
+			6,
+			7,
+			9,
+			4,
+			1,
+			2,
+			1
+		],
+		"n": 52
+	},
+	"If you received an iron ring, have you lost your iron ring as of doing this survey?": {
+		"labels": [
+			"No"
+		],
+		"counts": [
+			60
+		],
+		"n": 60
+	},
+	"Have you ever physically fought someone outside of controlled martial arts environments (with intent to cause physical harm)?": {
+		"labels": [
+			"No",
+			"Yes"
+		],
+		"counts": [
+			56,
+			5
+		],
+		"n": 61
+	},
+	"Do you use tabs or spaces when indenting your code?": {
+		"labels": [
+			"Spaces",
+			"Tabs",
+			"Depends on\nhow I feel"
+		],
+		"counts": [
+			10,
+			46,
+			6
+		],
+		"n": 62
+	},
+	"Where do you put your function brackets?": {
+		"labels": [
+			"Next line",
+			"Same line",
+			"Depends on\nhow I feel"
+		],
+		"counts": [
+			2,
+			56,
+			4
+		],
+		"n": 62
+	},
+	"Favourite programming language?": {
+		"labels": [
+			"C++",
+			"Go",
+			"Java",
+			"JavaScript",
+			"Kotlin",
+			"OCaml",
+			"Python",
+			"Rust",
+			"Scala",
+			"TypeScript",
+			"\u03bcC++"
+		],
+		"counts": [
+			8,
+			2,
+			2,
+			2,
+			1,
+			3,
+			27,
+			4,
+			1,
+			10,
+			1
+		],
+		"n": 61
+	},
+	"Favourite text editor or IDE?": {
+		"labels": [
+			"Cursor",
+			"JetBrains suite",
+			"Vim",
+			"Visual Studio suite (e.g. VSCode)",
+			"Windsurf"
+		],
+		"counts": [
+			3,
+			5,
+			2,
+			50,
+			1
+		],
+		"n": 61
+	},
+	"Do you capitalize letters while typing with Caps Lock or Shift?": {
+		"labels": [
+			"Caps Lock",
+			"Shift",
+			"Depends on\nhow I feel"
+		],
+		"counts": [
+			3,
+			52,
+			7
+		],
+		"n": 62
+	},
+	"Do you use your chosen IDE in light or dark mode?": {
+		"labels": [
+			"Dark Mode",
+			"Light Mode",
+			"Depends on\nhow I feel"
+		],
+		"counts": [
+			50,
+			6,
+			6
+		],
+		"n": 62
+	},
+	"Which phone OS do you use?": {
+		"labels": [
+			"Android",
+			"Apple",
+			"Both"
+		],
+		"counts": [
+			19,
+			41,
+			1
+		],
+		"n": 61
+	},
+	"How many Leetcode Easy problems have you solved?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"10",
+			"12",
+			"13",
+			"27",
+			"30",
+			"31",
+			"35",
+			"37",
+			"38",
+			"40",
+			"49",
+			"50",
+			"51",
+			"53",
+			"54",
+			"57",
+			"58",
+			"61",
+			"65",
+			"66",
+			"71",
+			"77",
+			"81",
+			"84",
+			"85",
+			"92",
+			"93",
+			"94",
+			"100",
+			"117",
+			"127",
+			"129",
+			"151",
+			"152",
+			"159",
+			"164",
+			"256",
+			"284"
+		],
+		"counts": [
+			2,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			2,
+			2,
+			1,
+			3,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 50
+	},
+	"How many Leetcode Medium problems have you solved?": {
+		"labels": [
+			"0",
+			"2",
+			"4",
+			"7",
+			"15",
+			"20",
+			"25",
+			"38",
+			"40",
+			"41",
+			"43",
+			"49",
+			"53",
+			"55",
+			"60",
+			"61",
+			"63",
+			"68",
+			"73",
+			"74",
+			"76",
+			"86",
+			"100",
+			"103",
+			"110",
+			"111",
+			"114",
+			"129",
+			"134",
+			"137",
+			"144",
+			"146",
+			"147",
+			"150",
+			"184",
+			"189",
+			"191",
+			"192",
+			"195",
+			"224",
+			"249",
+			"255",
+			"343",
+			"526"
+		],
+		"counts": [
+			2,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			3,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 50
+	},
+	"How many Leetcode Hard problems have you solved?": {
+		"labels": [
+			"0",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"9",
+			"10",
+			"12",
+			"13",
+			"14",
+			"15",
+			"17",
+			"19",
+			"20",
+			"21",
+			"25",
+			"27",
+			"29",
+			"31",
+			"35",
+			"36",
+			"43",
+			"51",
+			"52",
+			"68"
+		],
+		"counts": [
+			7,
+			1,
+			2,
+			2,
+			6,
+			1,
+			3,
+			3,
+			2,
+			1,
+			2,
+			2,
+			1,
+			1,
+			1,
+			2,
+			2,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 50
+	},
+	"What video games did you frequently play during your degree?": {
+		"labels": [
+			"Balatro",
+			"CS2",
+			"CSGO",
+			"Celeste",
+			"Chess",
+			"Clash Royale",
+			"Clash of Clans",
+			"Deadlock",
+			"Factorio",
+			"Genshin Impact",
+			"Hearthstone",
+			"Hitman",
+			"Hollow Knight",
+			"Honkai Star Rail",
+			"League of Legends",
+			"MONSTER HUNTER",
+			"Marvel Rivals",
+			"Minecraft",
+			"Overwatch",
+			"R.E.P.O",
+			"Risk of Rain 2",
+			"Slay the Spire",
+			"Stardew Valley",
+			"Teamfight Tactics",
+			"Terraria",
+			"VALORANT",
+			"World of Warships",
+			"Zenless Zone Zero",
+			"Do not play any games frequently"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			6,
+			2,
+			1,
+			1,
+			2,
+			12,
+			1,
+			4,
+			5,
+			3,
+			1,
+			1,
+			1,
+			3,
+			1,
+			1,
+			12,
+			1,
+			1,
+			13
+		],
+		"n": 44
+	},
+	"How many hours did you play video games per week during your degree?": {
+		"labels": [
+			"0-3",
+			"3-5",
+			"5-10",
+			"10-20",
+			"20+"
+		],
+		"counts": [
+			33,
+			13,
+			9,
+			4,
+			2
+		],
+		"n": 61
+	},
+	"How many hours did you spend on social media platforms per week during your degree?": {
+		"labels": [
+			"0-1",
+			"1-3",
+			"3-5",
+			"5-10",
+			"10-20",
+			"20+"
+		],
+		"counts": [
+			4,
+			7,
+			11,
+			14,
+			16,
+			8
+		],
+		"n": 60
+	},
+	"Favourite boba shop around UW?": {
+		"labels": [
+			"Chatime",
+			"Coco",
+			"Gong Cha",
+			"Machi Machi",
+			"Noon Moment",
+			"NowTea",
+			"Sweet Dreams",
+			"The Alley"
+		],
+		"counts": [
+			1,
+			3,
+			3,
+			1,
+			1,
+			28,
+			2,
+			7
+		],
+		"n": 46
+	},
+	"Favourite restaurant in Waterloo?": {
+		"labels": [
+			"Baba\u2019s Chicken Grill",
+			"Banh Mi Givral Deli",
+			"Bao Bar",
+			"Dinestination",
+			"Empress of India",
+			"Ennio's",
+			"Famoso",
+			"Fuwa Fuwa",
+			"Gol's Lanzhou Noodle",
+			"Kabob Place",
+			"Lazeez",
+			"Loobapbap",
+			"Mel's Diner",
+			"MyungGA",
+			"Pho Anh Vu",
+			"PokeBowl",
+			"Qing Shu Hot Pot",
+			"Seoul Soul",
+			"Shinwa",
+			"Top Chicken",
+			"Waterloo Star",
+			"Williams",
+			"Yang Yum",
+			"Yunshang Rice Noodle"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			5,
+			3,
+			1,
+			3,
+			2,
+			1,
+			3,
+			1,
+			2,
+			1,
+			6,
+			1,
+			1,
+			2,
+			1,
+			9
+		],
+		"n": 49
+	},
+	"Favourite shawarma restaurant around UW?": {
+		"labels": [
+			"4 Seasons Shawarma",
+			"Lazeez",
+			"Osmow's",
+			"Shawerma Plus",
+			"Shinwa",
+			"Sultans",
+			"Tahini's",
+			"iPotato"
+		],
+		"counts": [
+			2,
+			8,
+			3,
+			29,
+			1,
+			1,
+			2,
+			5
+		],
+		"n": 51
+	},
+	"Favourite inspirational quote/words to live by?": {
+		"labels": [
+			"...You should treasure the encounters you have and the people you meet. Death isn\u2019t the only goodbye in this life. -Frieren: Beyond Journey's End",
+			"1% better every day",
+			"Be kind but don't be a pushover",
+			"Believe you can and you're halfway there",
+			"Greater love has no one than this, that someone lay down his life for his friends.",
+			"I wanted to give the folks a little sizzle",
+			"IT'S BIGLET TIME",
+			"If it ain't broke, don't fix it.",
+			"If you just start it's amazing what you can achieve...",
+			"It's not about how hard you get hit, but how hard you can get hit and keep moving forward",
+			"It\u2019s not about the end result, but about the friends and memories you made along the way",
+			"JUST DO IT",
+			"No one is going to push you except yourself\nOR \nsomeone less competent is living your dream right now",
+			"Sometimes, I prefer to do nothing. Doing nothing doesn't have that confusion - Magdy Salama, ECE 192",
+			"Suffering builds character",
+			"The future belongs to those who believe in the beauty of their dreams.",
+			"Tough times don't last, tough people do.",
+			"You can't connect the dots looking forewords, you can only connect them looking backwards. So you have to trust within yourself that the dots will somehow connect in the future. - Steve Jobs",
+			"everything is temporary / good things take time",
+			"fuck around and find out",
+			"rage, rage, against the dying of the light",
+			"suffering or happiness are choices we get to make",
+			"the best time to plant a tree was a hundred years ago, the second best is now"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 23
+	},
+	"Best life hack/tip?": {
+		"labels": [
+			"Always have a tide pen on you",
+			"As soon as you can, start using Google calendar religiously",
+			"Be friends with people who are smarter than you!",
+			"Faith",
+			"Figure out a calendar/task setup early",
+			"Find every way to save every dollar/every cent by using the right combination of credit/debit products/spending habits. Spend BIG on things you LOVE and small on things that you don't. File the inside of your USB-C ports when they stop working and they'll work again.",
+			"Get up early",
+			"If you feel like everyone hates you, take a nap. If you feel like you hate everyone, eat something.\n\nMake cupcake sandwiches by detaching the bottom of the cupcake and putting it on top of the frosting. This creates a consistent ratio of cake to frosting with every bite!",
+			"Learn how to cook for yourself",
+			"Learn the campus map and all of its tunnels/bridges, so you never get lost trying to go to class. (or just know someone who does)",
+			"Life is short",
+			"Put your bread in the freezer",
+			"Recognize what makes you happy and chase it",
+			"School is so much easier when you work with people around you, especially for studying!!",
+			"You can boil eggs in a kettle",
+			"don't give a sht about people you don't care about",
+			"don't take no for an answer \nOR\noften when you live and make decisions sub-conciously, you do it through the built-up lens of your doubts and fears",
+			"go to gym",
+			"if you keep running out of [x] and it's not that expensive. buy more! (esp stuff like dishes, plates, etc.)",
+			"just do it",
+			"live by the 80/20 rule",
+			"mock interview instead of leetcode",
+			"sleep and food do fix things"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 23
+	},
+	"Advice you'd give your first-year self?": {
+		"labels": [
+			"Be proactive, and don't fall behind! Early habits matter.",
+			"Create side projects early on and explore more by doing more projects and prioritize leetcode. Stay happy and enjoy the process",
+			"Do leetcode earlier, put more effort into applying to coops, do coops with the intention to learn",
+			"Don't change yourself to conform to a group, no matter how much success \"appears\" to be guaranteed if you conform, keep your own unique brand and charm and grow it rather than actively diminish it. Prioritize and cut out noise if you have to, and protect your identity.",
+			"Don't go to lectures.",
+			"Don't overthink it. You can worry a bit when things go wrong, but don't worry too much, and for too long. With an open mind, and some creative thought, you'll see possibilities you wouldn't have imagined, although it'll take time to get to that point.",
+			"Your life will be so much better if you stop seeking external validation for your problems. Also, start trying to be less defensive now",
+			"Just keep going, and make good friends",
+			"Life is never that serious, take care of your health and keep loved ones close",
+			"Looking for co-ops based on their ratings on WW is the wrong move. Location and pay are the only things you should care about (unless the company sucked during the interviews). Try a bit harder at things that actually matter to you, and less hard at things that you don\u2019t feel great about but are driven by fear to stay ahead on.",
+			"Meet more people. Don't be afraid of failure.",
+			"Meet people outside se!",
+			"Read the Bible",
+			"Seek advice on building a good resume. Start planning for graduate school early.",
+			"Swap to CS/ go on exchange/ talk to more people",
+			"Take advantage of every opportunity more",
+			"Things do get better with time",
+			"This too shall pass",
+			"Travel",
+			"Trust the process and keep your head in your own shoes",
+			"Try different things!",
+			"Try harder",
+			"You have so much going for you, don't ever be afraid to put yourself out there and see what happens",
+			"You'll be alright in the end",
+			"chill",
+			"do what works",
+			"finding interpsonal relationships is a sampling problem, you should importance sample and your sample count",
+			"go out more, uni is a playground for you to live on the extremes before you find out who you really are",
+			"good things come to those who persevere. don't give up so easily, even if it feels hopeless",
+			"keep a journal so you don't forget how awesome you are",
+			"keep it pushing",
+			"life's about to throw you for a loop, enjoy! remember to sleep eat and exercise.",
+			"lock in",
+			"read blogs",
+			"schools not the most important thing in life. Don't take the people around you for granted, they might not always be there.",
+			"stop worrying so much",
+			"take a deep breath, relax, and then get to work",
+			"to be more proactive about getting what I want",
+			"you can get what you want, but you have to fight for it"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 39
+	},
+	"Anything else you'd like to add?": {
+		"labels": [
+			"Fail often and as soon as you can, the cost of failure compounds the further you go!",
+			"what a journey this has been!! pleasure is all mine",
+			"bro just say yes to more stuff and live like you're a professional you'll never regret it\nAND\npick another undergrad than SE :3",
+			"Don't take your memories and experiences here for granted, they shape who you are from now on. So do your best to make good memories for yourself and others too",
+			"nah im good"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 5
+	}
+}

@@ -1,0 +1,135 @@
+.termTable {
+	border-collapse: collapse;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-weight: 400;
+	font-size: 14px;
+
+	display: block;
+	overflow-x: auto;
+	white-space: nowrap;
+}
+
+.termTable tr td {
+	border: 1px solid white;
+	padding: 4px;
+	text-align: center;
+}
+
+.termTable tr th {
+	border: 1px solid white;
+	padding: 4px;
+}
+
+.termTable tr td.noBorder {
+	border: none;
+}
+
+.termTable tr th.noBorder {
+	border: none;
+}
+
+.termTable tr td:first-child {
+	width: 20%;
+	/* font-family: var("--font-athiti-bold"); */
+}
+
+.termTable tr:nth-child(1) {
+	background-color: white;
+	color: #084c9e;
+	font-family: var("--font-athiti-bold");
+}
+
+.termTable tr:nth-child(2) {
+	font-family: var("--font-athiti-bold");
+}
+
+.termTable tr:nth-child(3) {
+	background-color: #f25d72;
+	font-weight: 400;
+}
+
+.termTable tr:nth-child(4) {
+	background-color: #9562d8;
+	font-weight: 400;
+}
+
+.termTable tr:nth-child(5) {
+	background-color: #4e8cca;
+	font-weight: 400;
+}
+
+.sortableTable {
+	border-collapse: collapse;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-weight: 400;
+	font-size: 14px;
+	width: 100%;
+
+	display: block;
+	overflow-x: auto;
+	white-space: nowrap;
+}
+
+.sortableTable thead tr:nth-child(1) {
+	background-color: white;
+	color: #084c9e;
+}
+
+.sortableTable thead tr:nth-child(1) th:nth-child(1),
+.sortableTable thead tr:nth-child(1) th:nth-child(2),
+.sortableTable thead tr:nth-child(1) th:nth-child(3) {
+	border-right: 2px solid #084c9e;
+}
+
+.sortableTable thead tr:nth-child(1):hover {
+	cursor: pointer;
+}
+
+.sortableTable tr td {
+	border: 1px solid white;
+	padding: 4px;
+	text-align: center;
+}
+
+.sortableTable tr td:nth-child(1) {
+	font-weight: 600;
+}
+
+.boxPlotTable {
+	border-collapse: collapse;
+	border: 1px solid white;
+	padding: 4px;
+}
+
+.boxPlotTable tr td {
+	border: 1px solid white;
+	padding: 4px 10px;
+}
+
+.boxPlotTable tr td:first-child {
+	font-weight: bold;
+}
+
+.baseTable {
+	border-collapse: collapse;
+	border: 1px solid white;
+	padding: 4px;
+	width: 100%;
+}
+
+.baseTable tr td {
+	border: 1px solid white;
+	padding: 4px 30px;
+	text-align: center;
+}
+
+.baseTable tr td:first-child {
+	font-weight: bold;
+}
+
+.baseTable thead {
+	background-color: white;
+	color: #084c9e;
+}

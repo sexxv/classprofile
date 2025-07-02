@@ -1,0 +1,58 @@
+/* Ripped and minified from PrismJS 1.30.0
+https://prismjs.com/download.html#themes=prism-tomorrow&languages=clike 
+Basically the file linked above, except with unnecessary stuff removed,
+styles merged into classes so they work with css modules, 
+and a slight addition to the <pre> style.
+*/
+/**
+ * prism.js tomorrow night eighties for JavaScript, CoffeeScript, CSS and HTML
+ * Based on https://github.com/chriskempson/tomorrow-theme
+ * @author Rose Pritchard
+ */
+
+
+.codeBlock {
+	color: #ccc;
+	background: none;
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+
+}
+
+/* Code blocks */
+.codeBlockPre {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	background: #2d2d2d;
+
+	height: 144px;
+	border-radius: 8px;
+}
+
+.token.comment {
+	color: #999;
+}
+
+.token.punctuation {
+	color: #ccc;
+}
+
+.token.function {
+	color: #f08d49;
+}

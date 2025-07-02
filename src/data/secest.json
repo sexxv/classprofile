@@ -1,0 +1,33 @@
+{
+	"Did you ever commit SEcest with another SE25?": {
+		"labels": ["No", "Yes"],
+		"counts": [50, 15],
+		"n": 65
+	},
+	"Did you at any point want to commit SEcest with an SE25?": {
+		"labels": ["No", "Yes"],
+		"counts": [32, 18],
+		"n": 50
+	},
+	"What terms did you commit SEcest with another SE25?": {
+		"labels": [
+			"< F20",
+			"F20",
+			"W21",
+			"S21",
+			"F21",
+			"W22",
+			"S22",
+			"F22",
+			"W23",
+			"S23",
+			"F23",
+			"W24",
+			"S24",
+			"F24",
+			"W25"
+		],
+		"counts": [2, 1, 1, 0, 1, 2, 9, 7, 11, 11, 10, 9, 11, 6, 10],
+		"n": 0
+	}
+}

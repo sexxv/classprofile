@@ -1,0 +1,68 @@
+{
+	"quotes": [
+		{
+			"profName": "Victoria Sakhnini",
+			"profImg": "/prof-photos/victoria-sakhnini.png",
+			"quote": [
+				"Dear SE2025 Students,",
+				"It has been an honor to guide you through CS137 and SE101 and to serve as your Associate Director and Director. You arrived as outstanding students and have undoubtedly acquired strong skills. However, the most significant aspects of your growth are beyond academics. I hope you have also developed empathy and interpersonal skills over the past five years, perhaps through your interactions with classmates, some of whom will remain lifelong friends.",
+				"This moment signifies the conclusion of an extraordinary journey of education and self-discovery. A rewarding journey is never simple, but through perseverance and dedication, you have successfully navigated every challenge on your path to achievement. For that, I am proud.",
+				"Each of you has the potential to accomplish remarkable things. Stay present and receptive to the opportunities that come your way. After this term, many of you will transition from being students. Nevertheless, life's lessons never cease. Life will teach you more than you can imagine, and you will progress through what you learn in the future more than what you have learned.",
+				"As you embark on the next phase of your life, embrace every opportunity with enthusiasm and bravery. Continue to push boundaries, remain curious, and never stop learning. Your journey is just beginning, and the world awaits the incredible impact you will make.",
+				"I'll conclude by raising a coffee cup and saying…",
+				"May your coffee be strong, your code bug-free, and your Wi-Fi signal always stable. Remember to take breaks, enjoy the little moments, and never lose your sense of wonder. Here's to a future filled with exciting challenges, rewarding successes, laughter, and happiness.",
+				"Be happy, Stay in touch!",
+				""
+			],
+			"signature": [
+				"Victoria Sakhnini",
+				"SE Director"
+			]
+		},
+		{
+			"profName": "Jeff Zarnett",
+			"profImg": "/prof-photos/jeff-zarnett.png",
+			"quote": [
+				"Dear SE class of 2025,",
+				"Congratulations on reaching the end of your degree. You’ve completed a difficult program and worked hard to get where you are. I invite you to take a moment and reflect on that, and to truly appreciate the good and bad over the past few years. Lots of things about this time period were unprecedented, but the truth is, we almost always live in unprecedented times.",
+				"While each course has specific intended learning outcomes, the real objective of any education program is to prepare you for the challenges ahead. That includes building skills, sure, but also it’s about learning how to learn, about how to adapt to change, and learning what strategies work best for you to accomplish  your goals. Completing your degree represents the end of a very structured approach to this: from now on, you will need to take charge of your own growth.",
+				"Given world (and local) events, I would not blame you for thinking that things will get worse and the future doesn’t look very bright. But the future can be better than today — if you make it that way. You have valuable skills, knowledge, and lots of potential — I hope you’ll use it to do good in the world.",
+				"As Q says: “See you… out there!”",
+				""
+			],
+			"signature": [
+				"Jeff Zarnett",
+				"SE 350 & ECE 459 Prof"
+			]
+		},
+		{
+			"profName": "Peter Buhr",
+			"profImg": "/prof-photos/peter-buhr.png",
+			"quote": [
+				"How about something simple.",
+				"Concurrent programming is the most extreme form of programming. It's like white-water rafting without the raft or skydiving without the parachute.",
+				"Remember Mary and Peter, and keep your Airbus flying! 8-)",
+				""
+			],
+			"signature": [
+				"Peter Buhr",
+				"CS 343 Prof"
+			]
+		},
+		{
+			"profName": "Surya Banerjee",
+			"profImg": "/prof-photos/surya-banerjee.png",
+			"quote": [
+				"Congratulations on your graduation. I feel really happy for you all, and I’m glad that I could be part of your academic journey.",
+				"You got in this university in the middle of a raging pandemic, (‘unprecedented times’ is an expression I never want to hear again), and in spite of all the troubles of adjusting to a new environment, new mode of lectures, a tough academic environment,  etc, you came out stronger. You should be proud of your resilience.",
+				"Teaching Stat 206 to you was one of my happier memories of the Covid era. (It tells you a little about my lack of social life) You were bright, kind, and curious, and I always left the class in a better mood than when I walked in.",
+				"It’s an uncertain, turbulent world out there, and I hope you apply the lessons in probability that we learned together. Good luck on the next phase of your lives, and I hope you keep in touch.",
+				""
+			],
+			"signature": [
+				"Surya Banerjee",
+				"STAT 206 Prof"
+			]
+		}
+	]
+}

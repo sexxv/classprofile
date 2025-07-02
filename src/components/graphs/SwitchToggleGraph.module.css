@@ -1,0 +1,74 @@
+.labelledSlider {
+	display: flex;
+	gap: 10px;
+	align-items: center;
+}
+
+.switch {
+	background-color: #9562D8;
+	height: 32px;
+	border-radius: 16px;
+	padding: 4px;
+	width: 58px;
+
+	position: relative;
+	display: inline-block;
+}
+
+.switch input {
+	display: none;
+}
+
+.switch:hover {
+	cursor: pointer;
+	filter: brightness(125%);
+}
+
+.slider {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	background-color: white;
+
+	display: inline-block;
+
+	transition: transform 0.2s;
+	border-radius: 50%;
+}
+
+.switch input:checked + .slider {
+	transform: translateX(26px);
+}
+
+.graphWrapper {
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 1fr;
+}
+
+.fader {
+	transition: opacity 0.5s;
+	grid-column-start: 1;
+	grid-column-end: 2;
+	grid-row-start: 1;
+	grid-column-end: 2;
+}
+
+.fadeOut {
+	opacity: 0%;
+	pointer-events: none;
+}
+
+.fadeIn {
+	opacity: 100%;
+}
+
+.leftLabel {
+	text-align: right;
+	flex: 1;
+}
+
+.rightLabel {
+	text-align: left;
+	flex: 1;
+}

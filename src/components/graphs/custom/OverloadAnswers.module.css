@@ -1,0 +1,8 @@
+.hoverLink {
+	text-decoration: underline;
+	transition: color 0.2s;
+}
+
+.hoverLink:hover {
+	color: #ae83d8;
+}

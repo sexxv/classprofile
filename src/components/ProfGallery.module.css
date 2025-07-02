@@ -1,0 +1,48 @@
+.about {
+	font-family: var(--font-jersey-10);
+	padding: 80px;
+	font-size: 18px;
+	font-family: var(--font-athiti);
+	position: static;
+
+	color: var(--font-color);
+
+	background-color: #021a2f;
+}
+
+/* .section { */
+/* width: min(100%, max(600px, 70%)); */
+/* } */
+
+.sectionTitle {
+	font-size: 72px;
+	font-weight: normal;
+	line-height: 150%;
+	font-family: var(--font-jersey-10);
+}
+
+.space {
+	height: 400px;
+}
+
+.gallery {
+	position: static;
+	display: flex;
+	flex-direction: row;
+	transform-style: preserve-3d;
+	transform: perspective(1000px) rotateY(0deg);
+	transition: transform 0.7s;
+
+	width: 100%;
+	justify-content: space-between;
+}
+
+@media (max-width: 800px) {
+	.gallery {
+		flex-direction: column;
+	}
+
+	.about {
+		padding: 30px;
+	}
+}

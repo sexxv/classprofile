@@ -1,0 +1,78 @@
+{
+    "Which term did you switch out of SE25?": {
+        "labels": [
+            "1A",
+            "1B",
+            "Co-op 1",
+            "2A",
+            "Co-op 2",
+            "2B",
+            "Co-op 3",
+            "3A",
+            "Co-op 4",
+            "3B"
+        ],
+        "counts": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "n": 8
+    },
+    "Why did you choose to switch out of SE25?": {
+        "labels": [
+            "- to have a fresh new start with a different group of people - to take less courses to spend more time on research and to save money (international tuition is so expensive)  - liked my 4-th internship a lot and i was ok with returning there for another internship & full time - didn't want to do the final-year design project -  all my closest friends in se have transferred ",
+            "Because I didn't want to take the follow up course for Math213 and genuinely wanted less workload to work on other things",
+            "Less engineering courses, more flexibility and free time.",
+            "The international tuition was too high for me to justify another year in online classes due to COVID. I found the job I wanted in my co-op and went full-time with them, and I've been working there for the last 3.5 years or so. ",
+            "To pursue creating my own startup and growing business endeavors",
+            "Wanted to spend less time doing classwork and more time doing research, and the lighter CS courseload helps a lot with that",
+            "course selection flexibility ",
+            "eng is pointless"
+        ],
+        "counts": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "n": 8
+    },
+    "Which program did you switch to?": {
+        "labels": [
+            "N/A, Dropped Out",
+            "CS",
+            "CS, Regular"
+        ],
+        "counts": [
+            2,
+            5,
+            1
+        ],
+        "n": 8
+    },
+    "Is there anything else you'd like to add?": {
+        "labels": [
+            "If not for COVID, everything might have been different, and from what I saw in online classes I think I would have enjoyed the classes especially from the Math Faculty. I don't really regret the path I have taken but UoW would have been a path I wouldn't have regretted as well. ",
+            "Well, I think it would be better if SE can have more options for some ECE courses, because some of them may not be directly aligned with my goals, that is more software focused",
+            "covid was lame..."
+        ],
+        "counts": [
+            1,
+            1,
+            1
+        ],
+        "n": 3
+    }
+}

@@ -1,0 +1,102 @@
+.sectionWrapper {
+	display: flex;
+	column-gap: 100px;
+	margin: 0;
+	justify-content: center;
+	color: white;
+	padding: 40px 0 20px;
+
+	flex-wrap: wrap;
+}
+
+.sectionWrapperFW {
+	display: flex;
+	flex-direction: column;
+	/* align-items: center; */
+	padding-top: 40px;
+	color: white;
+}
+
+.halfWidth {
+	flex-direction: column;
+	width: 70%;
+	padding: 0;
+	padding-bottom: 20px;
+}
+
+.textWrapper {
+	flex: 1;
+	min-width: 270px;
+}
+
+.graph {
+	flex: 1.15;
+	min-width: 270px;
+	font-size: 14px;
+	font-family: var(--font-athiti);
+	margin-top: initial;
+
+	width: 100%;
+
+	svg {
+		display: block;
+	}
+}
+
+.verticalSpace {
+	height: 20px;
+}
+
+@media (max-width: 800px) {
+	.mobileReverseMarginGraph {
+		margin-left: -50px;
+	}
+
+	.mobileBigReverseMarginGraph {
+		margin-left: -100px;
+	}
+
+	.sectionWrapper {
+		gap: 0;
+		flex-direction: column;
+	}
+
+	.halfWidth {
+		flex-direction: column;
+		width: 100%;
+	}
+
+	.verticalSpace {
+		height: 10px;
+	}
+
+	.graph {
+		margin-top: 20px;
+	}
+}
+
+.nPill {
+	color: white;
+	font-family: var(--font-jersey-10);
+	font-size: 18px;
+	padding: 8px;
+	border-radius: 10px;
+	margin: 15px 0px;
+	width: 230px;
+	text-align: center;
+	transition: background-color 0.3s ease;
+}
+
+.interactivePill {
+	color: white;
+	font-family: var(--font-athiti);
+	font-weight: 600;
+	font-size: 18px;
+	padding: 8px 20px;
+	border-radius: 10px;
+	min-width: 180px;
+	max-width: fit-content;
+	text-align: center;
+	transition: background-color 0.3s ease;
+	cursor: default;
+}

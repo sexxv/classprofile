@@ -1,0 +1,71 @@
+{
+	"CS138": ["Learned fundamentals"],
+	"CS240": [
+		"intro to a lot of important cs topics, ie more in depth run time analysis",
+		"",
+		"Helped develop a fundamental understanding of core data structure"
+	],
+	"CS241": [""],
+	"CS241e": [
+		"very applicable for understanding programs, wouldn’t have learned this otherwise on my own",
+		"Helped me understand how coding actually works",
+		"Taught the inner workings of compilers in a very organized and understandable fashion, very hands on in the exact right places, very gratifying progress wise"
+	],
+	"CS247": [
+		"",
+		"",
+		"Practical C++",
+		"object oriented programming also forcing u to make a project"
+	],
+	"CS341": [
+		"A lot of practice solving coding problems that proved to be useful in interviews later on",
+		"Interviews",
+		"It really makes you think.",
+		"Leetcode, the course",
+		"Core Algorithms / Leetcode course. Helped with a lot of the interviews",
+		"",
+		"Helps with tech interviews",
+		"Interview prep",
+		"leetcode, general algorithm design",
+		"Gave me a good understanding of algorithms, which was generally useful",
+		"Good for leetcode :thumbsup:",
+		"",
+		"Interview prep",
+		"Realistically, most of the things I interact with deal with algorithms we commonly use",
+		"Leetcode",
+		"LEETCODE",
+		"very useful for interviews, also I used a DFS at work once",
+		"CS 240, CS 341",
+		"leetcode practice"
+	],
+	"CS343": [
+		"Very applicable to real world, also sufficiently theoretical to be helpful",
+		"My job requires knowledge of concurrency concepts",
+		"concurrency was much more interesting to have an introduction to",
+		"In addition to concurrency in general, it makes you think about your code which is a good habit to get into",
+		"Learning concurrency from peter buhr is a pleasure."
+	],
+	"CS348": [""],
+	"MATH115": [""],
+	"MATH135": ["Proofs :)"],
+	"MATH239": [""],
+	"SE350": [
+		"",
+		"Learned how to think about operating systems & the way our computers work",
+		"",
+		"",
+		"Great lectures. Intense labs.",
+		"Useful knowledge in industry",
+		"",
+		"wholistic view of how computer work",
+		"",
+		"",
+		"Jeff zarnett unironically taught us so much useful garbage",
+		"SE 350 acts as the last course in the chain of courses about how computers work, and fundamentally changed how I understand how computers work."
+	],
+	"SE464": [
+		"Helped with systems design interviews",
+		"Directly helped me with multiple interviews/offers."
+	],
+	"STAT206": ["I'm a degenerate gambler 💀"]
+}

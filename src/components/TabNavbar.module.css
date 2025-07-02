@@ -1,0 +1,35 @@
+.tabBar {
+	display: flex;
+	justify-content: flex-start;
+	align-items: stretch;
+
+	background-color: black;
+
+	font-size: smaller;
+}
+
+.tab {
+	box-sizing: border-box;
+
+	padding: 1em;
+
+	border-width: 2px 1px;
+	border-color: black;
+	border-style: solid;
+
+	background-color: white;
+	display: inline-block;
+}
+
+.currentTab {
+	box-sizing: border-box;
+
+	padding: 1em;
+
+	border-width: 0px 1px 2px 1px;
+	border-color: white black;
+	border-style: solid;
+
+	background-color: white;
+	display: inline-block;
+}

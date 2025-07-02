@@ -1,0 +1,115 @@
+{
+	"Where did you live during your school terms?": {
+		"1A": {
+			"labels": [
+				"At home",
+				"CMH",
+				"MKV",
+				"Other on-campus housing",
+				"Rez-One",
+				"UWP"
+			],
+			"counts": [44, 5, 2, 1, 1, 6],
+			"n": 59
+		},
+		"1B": {
+			"labels": [
+				"Accommod8u",
+				"At home",
+				"CMH",
+				"MKV",
+				"Other on-campus housing",
+				"Rez-One",
+				"UWP"
+			],
+			"counts": [1, 42, 5, 1, 1, 2, 7],
+			"n": 59
+		},
+		"2A": {
+			"labels": [
+				"Accommod8u",
+				"At home",
+				"ICON",
+				"Other off-campus housing in K-W area",
+				"Other on-campus housing",
+				"Rez-One",
+				"UWP",
+				"WCRI"
+			],
+			"counts": [3, 12, 8, 22, 1, 8, 3, 3],
+			"n": 60
+		},
+		"2B": {
+			"labels": [
+				"Accommod8u",
+				"At home",
+				"ICON",
+				"Other off-campus housing in K-W area",
+				"Other on-campus housing",
+				"Rez-One",
+				"UWP",
+				"WCRI"
+			],
+			"counts": [4, 2, 14, 24, 1, 8, 3, 8],
+			"n": 64
+		},
+		"3A": {
+			"labels": [
+				"Accommod8u",
+				"At home",
+				"ICON",
+				"Other off-campus housing in K-W area",
+				"Rez-One",
+				"Society 145",
+				"UWP",
+				"WCRI"
+			],
+			"counts": [2, 2, 8, 29, 10, 7, 3, 4],
+			"n": 65
+		},
+		"3B": {
+			"labels": [
+				"Accommod8u",
+				"At home",
+				"ICON",
+				"On exchange",
+				"Other off-campus housing in K-W area",
+				"Other on-campus housing",
+				"Rez-One",
+				"Society 145",
+				"WCRI"
+			],
+			"counts": [4, 2, 4, 23, 18, 1, 6, 7, 3],
+			"n": 68
+		},
+		"4A": {
+			"labels": [
+				"Accommod8u",
+				"At home",
+				"ICON",
+				"On exchange",
+				"Other off-campus housing in K-W area",
+				"Rez-One",
+				"Society 145",
+				"UWP",
+				"WCRI"
+			],
+			"counts": [4, 2, 16, 2, 15, 8, 7, 3, 7],
+			"n": 64
+		},
+		"4B": {
+			"labels": [
+				"Accommod8u",
+				"At home",
+				"ICON",
+				"Other off-campus housing in K-W area",
+				"Rez-One",
+				"Society 145",
+				"UWP",
+				"WCRI"
+			],
+			"counts": [4, 2, 16, 15, 11, 7, 3, 6],
+			"n": 64
+		}
+	}
+}

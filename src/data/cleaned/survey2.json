@@ -1,0 +1,4010 @@
+{
+	"How many volunteer hours did you complete in high school?": {
+		"labels": [
+			"0-39",
+			"40-99",
+			"100-149",
+			"150-199",
+			"200-249",
+			">250"
+		],
+		"counts": [
+			9,
+			18,
+			18,
+			12,
+			2,
+			9
+		],
+		"n": 68
+	},
+	"Why did you choose Waterloo SE?": {
+		"labels": [
+			"Close to home",
+			"Co-op",
+			"Cohort",
+			"Far from home",
+			"Friends",
+			"Interest in software engineering",
+			"Reputation",
+			"Research opportunities",
+			"Scholarship"
+		],
+		"counts": [
+			8,
+			57,
+			37,
+			7,
+			11,
+			48,
+			53,
+			2,
+			2
+		],
+		"n": 58
+	},
+	"What is your gender?": {
+		"labels": [
+			"Man",
+			"Prefer not to specify",
+			"Woman"
+		],
+		"counts": [
+			59,
+			1,
+			19
+		],
+		"n": 79
+	},
+	"What was your parents' total income at the time that you were admitted into university?": {
+		"labels": [
+			"0-49k / year",
+			"50k-99k / year",
+			"100k-149k / year",
+			"150k-199k / year",
+			"200k-249k / year",
+			"250k-299k / year",
+			"300k-349k / year",
+			"Prefer not to say",
+			"Unsure"
+		],
+		"counts": [
+			6,
+			10,
+			10,
+			10,
+			8,
+			5,
+			3,
+			3,
+			3
+		],
+		"n": 58
+	},
+	"How many roommates did you have in each school term? [1A]": {
+		"labels": [
+			"0",
+			"1",
+			"3",
+			"4",
+			"At home"
+		],
+		"counts": [
+			6,
+			6,
+			2,
+			1,
+			42
+		],
+		"n": 57
+	},
+	"How many roommates did you have in each school term? [1B]": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"At home"
+		],
+		"counts": [
+			7,
+			5,
+			2,
+			2,
+			2,
+			39
+		],
+		"n": 57
+	},
+	"How many roommates did you have in each school term? [2A]": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"At home"
+		],
+		"counts": [
+			4,
+			7,
+			4,
+			17,
+			12,
+			1,
+			12
+		],
+		"n": 57
+	},
+	"How many roommates did you have in each school term? [2B]": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"6",
+			"At home"
+		],
+		"counts": [
+			4,
+			12,
+			6,
+			17,
+			14,
+			1,
+			3
+		],
+		"n": 57
+	},
+	"How many roommates did you have in each school term? [3A]": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"At home"
+		],
+		"counts": [
+			3,
+			12,
+			10,
+			16,
+			11,
+			1,
+			1,
+			3
+		],
+		"n": 57
+	},
+	"How many roommates did you have in each school term? [3B]": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"6",
+			"At home"
+		],
+		"counts": [
+			10,
+			15,
+			10,
+			7,
+			10,
+			2,
+			3
+		],
+		"n": 57
+	},
+	"How many roommates did you have in each school term? [4A]": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"At home"
+		],
+		"counts": [
+			5,
+			16,
+			16,
+			8,
+			8,
+			1,
+			3
+		],
+		"n": 57
+	},
+	"How many roommates did you have in each school term? [4B]": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"At home"
+		],
+		"counts": [
+			8,
+			14,
+			13,
+			8,
+			11,
+			3
+		],
+		"n": 57
+	},
+	"Where did you live during your school terms?": {
+		"labels": [],
+		"counts": [],
+		"n": 57
+	},
+	"If you have taken an academic course during a co-op term, when?": {
+		"labels": [
+			"Co-op 1",
+			"Co-op 2",
+			"Co-op 3",
+			"Co-op 4",
+			"Co-op 5",
+			"Co-op 6"
+		],
+		"counts": [
+			10,
+			4,
+			8,
+			7,
+			11,
+			11
+		],
+		"n": 30
+	},
+	"If you have taken an academic course during a co-op term, why?": {
+		"labels": [
+			"Decrease workload of academic term",
+			"Doing a Minor degree. Not enough time to complete those required courses and technical electives.",
+			"English bc it was easy!",
+			"Failed CS348",
+			"I was unemployed",
+			"Just to get an extra open credit in case i needed it due to taking 1 fewer course the term I went on exchange",
+			"Music",
+			"Need to for exchange / wanted a lighter load for exchange term",
+			"Obtaining a minor",
+			"PSYCH207, To fulfill a science elective to get out of the way earlier",
+			"Reduce load during school",
+			"Reduce load during study terms",
+			"Specialization Requirement",
+			"To have a lighter 4A/4B for extracurriculars/full time job search",
+			"To increase the amount of options during 4B; to prevent every course from being a forced pick in the last term",
+			"To lighten my load for future terms",
+			"Took an easier online course, because I thought I needed it, turns out I didn't",
+			"Wanted to fill bird credits over the coop term.",
+			"Wanted to get the course out of the way",
+			"Was on exchange",
+			"flexibillity for future courses",
+			"needed to take more courses to graduate, one term no co-op",
+			"so I didnt need to take it in a school term",
+			"to cover the dumb graduation requirement list courses",
+			"to get grad requirements out of the way",
+			"to reduce work load during study terms"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 26
+	},
+	"If you have overloaded a term, when?": {
+		"labels": [
+			"2A",
+			"2B",
+			"3A",
+			"3B",
+			"4A",
+			"4B"
+		],
+		"counts": [
+			7,
+			2,
+			13,
+			6,
+			8,
+			4
+		],
+		"n": 20
+	},
+	"If you have overloaded, which course(s) did you overload, and did you complete the course(s)?": {
+		"labels": [
+			"2A: BIOL239\r\n3A: CS492",
+			"2A: BIOL239 (completed)\r\n3A: CS492 (completed)",
+			"2A: BIOL239 (completed)\r\n4A: CO353 (completed)",
+			"2A: ENGL101B (completed)\r\n3A: MATH235 (completed)\r\n3B: CO250 (completed)",
+			"2A: PSYCH101 (completed)",
+			"2A: SPCOM223 (completed)",
+			"3A: BIOL239 (did not complete)",
+			"3A: CS370 (completed)",
+			"3A: CS492, ENGL108P \r\n3B: CS451, CS452",
+			"3A: EARTH122 (completed)\r\n4B: CLAS202 (completed), ECON101 (completed)",
+			"3A: PSYCH207 (completed)\r\n4A: CO456 (completed)",
+			"4B: PHIL208 (completed)",
+			"Coop 5: BET100 (completed)\r\n4A: CS466 (did not complete)\r\nCoop 6: BET430 (completed), BET460 (completed)",
+			"EARTH122",
+			"Too many to put down, ~14-15 music courses spread out throughout"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 16
+	},
+	"What device do you most frequently use to take notes?": {
+		"labels": [
+			"Drawing tablet",
+			"Galaxy Tab",
+			"Galaxy Tab S6 Lite",
+			"iPad",
+			"Laptop",
+			"Pencil/pen & paper",
+			"N/A, do not take notes"
+		],
+		"counts": [
+			5,
+			1,
+			1,
+			19,
+			18,
+			11,
+			4
+		],
+		"n": 59
+	},
+	"What note-taking software do you use?": {
+		"labels": [
+			"Goodnotes",
+			"Google Docs",
+			"Latex",
+			"Microsoft Word",
+			"Notability",
+			"Notion",
+			"Obsidian",
+			"OneNote",
+			"Samsung Notes",
+			"Sublime Text",
+			"VSCode",
+			"Xournal++"
+		],
+		"counts": [
+			17,
+			12,
+			1,
+			1,
+			10,
+			20,
+			7,
+			9,
+			2,
+			1,
+			7,
+			1
+		],
+		"n": 51
+	},
+	"Which List 1 ATE did you take?": {
+		"labels": [
+			"CS 370",
+			"CS 442",
+			"CS 444",
+			"CS 449",
+			"CS 450",
+			"CS 451",
+			"CS 454",
+			"CS 480",
+			"CS 486",
+			"CS 488",
+			"CS 489"
+		],
+		"counts": [
+			10,
+			2,
+			2,
+			6,
+			1,
+			18,
+			2,
+			6,
+			7,
+			3,
+			1
+		],
+		"n": 58
+	},
+	"Opinions on List 1 ATEs": {
+		"labels": [],
+		"counts": [],
+		"n": 58
+	},
+	"Which List 2 ATE did you take?": {
+		"labels": [
+			"ECE 409",
+			"ECE 416",
+			"ECE 417",
+			"ECE 454",
+			"ECE 457A",
+			"ECE 457C",
+			"ECE 459",
+			"ECE 488"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			50,
+			1
+		],
+		"n": 58
+	},
+	"Opinions on List 2 ATEs": {
+		"labels": [],
+		"counts": [],
+		"n": 58
+	},
+	"Which List 3 ATE did you take?": {
+		"labels": [
+			"CO 342",
+			"CO 456",
+			"CO 487",
+			"Chose another from List 1",
+			"Chose another from List 2",
+			"Other (asked for approval)",
+			"SYDE 548"
+		],
+		"counts": [
+			1,
+			1,
+			12,
+			36,
+			2,
+			4,
+			1
+		],
+		"n": 57
+	},
+	"Opinions on List 3 ATEs": {
+		"labels": [],
+		"counts": [],
+		"n": 14
+	},
+	"Favourite core course?": {
+		"labels": [
+			"CHE 102",
+			"CS 240",
+			"CS 241",
+			"CS 241e",
+			"CS 247",
+			"CS 341",
+			"CS 343",
+			"CS 349",
+			"MATH 119",
+			"MATH 135",
+			"MATH 239",
+			"SE 101",
+			"SE 212",
+			"SE 350",
+			"SE 380",
+			"SE 464",
+			"SE 491",
+			"STAT 206"
+		],
+		"counts": [
+			1,
+			1,
+			2,
+			6,
+			7,
+			4,
+			8,
+			1,
+			1,
+			1,
+			6,
+			1,
+			5,
+			8,
+			2,
+			2,
+			1,
+			1
+		],
+		"n": 58
+	},
+	"Least favourite core course?": {
+		"labels": [
+			"CHE 102",
+			"CS 241e",
+			"CS 343",
+			"CS 348",
+			"ECE 105",
+			"ECE 106",
+			"ECE 124",
+			"ECE 140",
+			"ECE 192",
+			"ECE 222",
+			"MATH 135",
+			"MATH 213",
+			"MATH 239",
+			"SE 212",
+			"SE 380",
+			"SE 463",
+			"SE 464",
+			"STAT 206"
+		],
+		"counts": [
+			2,
+			2,
+			4,
+			5,
+			4,
+			5,
+			1,
+			2,
+			2,
+			16,
+			1,
+			5,
+			2,
+			1,
+			3,
+			1,
+			1,
+			1
+		],
+		"n": 58
+	},
+	"Most useful core course?": {
+		"labels": [
+			"CS 138",
+			"CS 240",
+			"CS 241",
+			"CS 241e",
+			"CS 247",
+			"CS 341",
+			"CS 343",
+			"CS 348",
+			"MATH 115",
+			"MATH 135",
+			"MATH 239",
+			"SE 350",
+			"SE 464",
+			"STAT 206"
+		],
+		"counts": [
+			1,
+			3,
+			1,
+			3,
+			4,
+			19,
+			5,
+			1,
+			1,
+			1,
+			1,
+			12,
+			2,
+			1
+		],
+		"n": 55
+	},
+	"Why did you think this course was useful?": {
+		"labels": [
+			"A lot of practice solving coding problems that proved to be useful in interviews later on",
+			"CS 240, CS 341",
+			"Core Algorithms / Leetcode course. Helped with a lot of the interviews",
+			"Directly helped me with multiple interviews/offers.",
+			"Gave me a good understanding of algorithms, which was generally useful",
+			"Good for leetcode :thumbsup:",
+			"Great lectures. Intense labs.",
+			"Helped develop a fundamental understanding of core data structure",
+			"Helped me understand how coding actually works",
+			"Helped with systems design interviews",
+			"Helps with tech interviews",
+			"I'm a degenerate gambler \ud83d\udc80",
+			"In addition to concurrency in general, it makes you think about your code which is a good habit to get into",
+			"Interview prep",
+			"Interviews",
+			"It really makes you think.",
+			"Jeff zarnett unironically taught us so much useful garbage",
+			"LEETCODE",
+			"Learned fundamentals",
+			"Learned how to think about operating systems & the way our computers work",
+			"Learning concurrency from peter buhr is a pleasure.",
+			"Leetcode",
+			"Leetcode, the course",
+			"My job requires knowledge of concurrency concepts",
+			"Practical C++",
+			"Proofs :)",
+			"Realistically, most of the things I interact with deal with algorithms we commonly use",
+			"SE 350 acts as the last course in the chain of courses about how computers work, and fundamentally changed how I understand how computers work.",
+			"Taught the inner workings of compilers in a very organized and understandable fashion, very hands on in the exact right places, very gratifying progress wise",
+			"Useful knowledge in industry",
+			"Very applicable to real world, also sufficiently theoretical to be helpful",
+			"concurrency was much more interesting to have an introduction to",
+			"intro to a lot of important cs topics, ie more in depth run time analysis",
+			"leetcode practice",
+			"leetcode, general algorithm design",
+			"object oriented programming also forcing u to make a project",
+			"very applicable for understanding programs, wouldn\u2019t have learned this otherwise on my own",
+			"very useful for interviews, also I used a DFS at work once",
+			"wholistic view of how computer work"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 40
+	},
+	"Least useful core course?": {
+		"labels": [
+			"CHE 102",
+			"CS 137",
+			"CS 348",
+			"ECE 105",
+			"ECE 106",
+			"ECE 140",
+			"ECE 192",
+			"ECE 222",
+			"MATH 213",
+			"SE 380",
+			"SE 463",
+			"SE 464",
+			"SE 465",
+			"SE 491"
+		],
+		"counts": [
+			15,
+			1,
+			1,
+			5,
+			9,
+			3,
+			5,
+			4,
+			3,
+			2,
+			2,
+			1,
+			1,
+			3
+		],
+		"n": 55
+	},
+	"Why did you think this course wasn't useful?": {
+		"labels": [
+			"Bad",
+			"Bad instructor",
+			"Breadth requirement for eng, not relevant to SE whatsoever",
+			"Circuits? Why?",
+			"Cool course, just not very relevant",
+			"Had nothing to do with what I wanted to do as a career",
+			"I don't do chemistry",
+			"I don't even remember what was in it, but I know I will never use it",
+			"I have *never* had to calculate the MARR in real life",
+			"I unfortunately do not interact much with circuits, so it is not very useful",
+			"I will never use it again",
+			"I'm never going to work on controls in my life",
+			"Irrelevant",
+			"Irrelevant to degree.",
+			"Linus tech tips taught me more than gordon agnew",
+			"Never had to use it ever again",
+			"Never used what I learned and probably never will",
+			"Not applicable to industry",
+			"Not at all applicable to my degree",
+			"Not related to what I want to do",
+			"Physics",
+			"Professor was extremely unmotivated, dry content, not applicable to later courses (even if it were, there's no repetition of hardware concepts from 2B onwards so you'd forget most of it by the time you DO take another hardware course)",
+			"Software Engineer",
+			"The course content feels non-applicable to most work, and there is an unreasonable amount of time spent on minutiae instead of actual specifications and requirements.",
+			"There is no lectures, no learning outcomes, nothing.",
+			"We don't need chemistry in software engineering",
+			"Why do I need to know chemistry?",
+			"Will never use chemistry lol.",
+			"did not care",
+			"didn't cover the content with enough detail to learn it",
+			"didn't learn a single thing from this class bcus agnew, wish i learnt something",
+			"i touched chemistry less than i touched ece106",
+			"its clear its a formality to graduate i was busy doing other stuff i actually cared about and this just stressed me out",
+			"like what the fuck are we doing here",
+			"never needed to use concepts taught in this course",
+			"physics.",
+			"writing embedded sql in C :vomit:",
+			"you could replace it with 3 powerpoints"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 38
+	},
+	"Favourite core course professor?": {
+		"labels": [
+			"Armin Jamshidpey",
+			"Brenda Lee",
+			"Firas Mansour",
+			"Gennaro Notomista",
+			"Jeff Zarnett",
+			"Jim Geelen",
+			"Nancy Day",
+			"Peter Buhr",
+			"Rob Hackman",
+			"Surya Banerjee",
+			"Victoria Sakhnini",
+			"Zack Cramer"
+		],
+		"counts": [
+			1,
+			3,
+			3,
+			1,
+			5,
+			3,
+			1,
+			5,
+			16,
+			1,
+			1,
+			7
+		],
+		"n": 45
+	},
+	"Favourite elective course (no ATEs), and why?": {
+		"labels": [
+			"ARABIC101R",
+			"ASL101",
+			"BET100",
+			"BET320",
+			"BET430",
+			"BIOL150",
+			"CLAS101",
+			"CLAS104",
+			"CLAS202",
+			"CS488",
+			"CS492",
+			"EARTH122",
+			"EARTH281",
+			"ECE305",
+			"ECE457A",
+			"ECON101",
+			"ECON212",
+			"ENGL108B",
+			"ENGL108P",
+			"ENGL306A",
+			"FINE150",
+			"JAPAN101R",
+			"MUSIC140",
+			"MUSIC246",
+			"MUSIC275",
+			"PSYCH101",
+			"PSYCH207",
+			"SCI238",
+			"SFM101",
+			"SPCOM223"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			3,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			3,
+			2,
+			2,
+			4,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1
+		],
+		"n": 41
+	},
+	"Easiest study term?": {
+		"labels": [
+			"1A",
+			"1B",
+			"2A",
+			"3A",
+			"3B",
+			"4A",
+			"4B"
+		],
+		"counts": [
+			4,
+			1,
+			5,
+			3,
+			2,
+			21,
+			22
+		],
+		"n": 58
+	},
+	"Hardest study term?": {
+		"labels": [
+			"1A",
+			"1B",
+			"2A",
+			"2B",
+			"3A",
+			"3B",
+			"4A"
+		],
+		"counts": [
+			4,
+			5,
+			1,
+			28,
+			9,
+			8,
+			2
+		],
+		"n": 57
+	},
+	"Do you plan on getting your P. Eng?": {
+		"labels": [
+			"No",
+			"Yes",
+			"Maybe"
+		],
+		"counts": [
+			40,
+			1,
+			17
+		],
+		"n": 58
+	},
+	"Which school term did you spend the most time working on your FYDP?": {
+		"labels": [
+			"3B",
+			"4A",
+			"4B"
+		],
+		"counts": [
+			12,
+			19,
+			27
+		],
+		"n": 58
+	},
+	"Will you continue working on your FYDP after symposium?": {
+		"labels": [
+			"No",
+			"Yes",
+			"Maybe"
+		],
+		"counts": [
+			41,
+			3,
+			15
+		],
+		"n": 59
+	},
+	"How much did you enjoy working on your FYDP?": {
+		"labels": [
+			"A lot | 5",
+			"4",
+			"3",
+			"2",
+			"Not at all | 1"
+		],
+		"counts": [
+			1,
+			17,
+			19,
+			13,
+			9
+		],
+		"n": 59
+	},
+	"What category is your FYDP?": {
+		"labels": [
+			"Advanced Technology",
+			"Consultant",
+			"New Product",
+			"Open-Source",
+			"Research"
+		],
+		"counts": [
+			13,
+			6,
+			33,
+			6,
+			1
+		],
+		"n": 59
+	},
+	"Did you transfer into SE from another program?": {
+		"labels": [
+			"No",
+			"Yes, during 3A"
+		],
+		"counts": [
+			58,
+			1
+		],
+		"n": 59
+	},
+	"What was your term average in 1A?": {
+		"labels": [
+			"75.64",
+			"78.91",
+			"80",
+			"81",
+			"82",
+			"84",
+			"86",
+			"88",
+			"88.73",
+			"88.91",
+			"90.18",
+			"90.54",
+			"90.91",
+			"91",
+			"91.09",
+			"92",
+			"92.18",
+			"92.73",
+			"92.91",
+			"93",
+			"93.46",
+			"93.82",
+			"94",
+			"94.91",
+			"95",
+			"95.09",
+			"95.27",
+			"96.09",
+			"96.33",
+			"96.36",
+			"96.54",
+			"96.6",
+			"96.91",
+			"97",
+			"97.09",
+			"98.18",
+			"99.09",
+			"99.64"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			3,
+			1,
+			2,
+			2,
+			2,
+			2,
+			2,
+			1,
+			1,
+			1,
+			1,
+			3,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			3,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 50
+	},
+	"What was your term average in 1B?": {
+		"labels": [
+			"65.2",
+			"66.8",
+			"69",
+			"75",
+			"77",
+			"78.2",
+			"80.6",
+			"82",
+			"84.2",
+			"85",
+			"85.6",
+			"86.6",
+			"86.8",
+			"87",
+			"87.8",
+			"89",
+			"89.8",
+			"90",
+			"90.4",
+			"91",
+			"91.4",
+			"92",
+			"92.2",
+			"92.4",
+			"92.8",
+			"93",
+			"93.4",
+			"93.6",
+			"93.8",
+			"94",
+			"94.4",
+			"95",
+			"97",
+			"97.2",
+			"97.4",
+			"98.6"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			3,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			3,
+			1,
+			2,
+			1,
+			1,
+			3,
+			1,
+			1,
+			1,
+			2,
+			3,
+			1,
+			2,
+			1,
+			1,
+			1,
+			2
+		],
+		"n": 50
+	},
+	"What was your term average in 2A?": {
+		"labels": [
+			"66.5",
+			"69.17",
+			"71.83",
+			"73",
+			"75",
+			"76",
+			"78.5",
+			"80.67",
+			"82",
+			"83",
+			"83.5",
+			"84",
+			"84.33",
+			"84.83",
+			"85.17",
+			"85.5",
+			"86.5",
+			"87",
+			"87.67",
+			"88",
+			"88.67",
+			"89",
+			"89.17",
+			"89.33",
+			"89.67",
+			"90.17",
+			"90.67",
+			"90.83",
+			"91.3",
+			"91.33",
+			"91.67",
+			"92",
+			"92.67",
+			"93.83",
+			"94",
+			"95",
+			"96"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			2,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			4,
+			2,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			3
+		],
+		"n": 50
+	},
+	"What was your term average in 2B?": {
+		"labels": [
+			"61.89",
+			"64",
+			"64.8",
+			"67.36",
+			"70",
+			"72.82",
+			"74.27",
+			"77.11",
+			"79.18",
+			"80",
+			"80.46",
+			"83",
+			"83.54",
+			"84.27",
+			"84.73",
+			"84.91",
+			"85",
+			"85.36",
+			"85.46",
+			"86",
+			"86.82",
+			"86.91",
+			"87",
+			"88",
+			"88.27",
+			"88.73",
+			"88.82",
+			"89",
+			"89.82",
+			"89.91",
+			"90",
+			"90.36",
+			"90.54",
+			"90.91",
+			"92",
+			"92.22",
+			"92.91",
+			"93",
+			"93.6",
+			"93.64",
+			"93.67",
+			"94",
+			"95.89",
+			"96"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			2,
+			1,
+			1
+		],
+		"n": 50
+	},
+	"What was your term average in 3A?": {
+		"labels": [
+			"62",
+			"67.83",
+			"68.67",
+			"73.5",
+			"77",
+			"78.5",
+			"79.67",
+			"79.83",
+			"81",
+			"82.33",
+			"83",
+			"84",
+			"85",
+			"85.17",
+			"86",
+			"86.5",
+			"87",
+			"87.2",
+			"87.5",
+			"88",
+			"88.33",
+			"88.83",
+			"89",
+			"89.17",
+			"89.2",
+			"89.83",
+			"90.33",
+			"90.5",
+			"91",
+			"91.5",
+			"92",
+			"92.17",
+			"93",
+			"93.33",
+			"93.67",
+			"94",
+			"94.33",
+			"94.5",
+			"94.67",
+			"94.83",
+			"95",
+			"96.2"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			2,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			2,
+			1,
+			3,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1
+		],
+		"n": 50
+	},
+	"What was your term average in 3B?": {
+		"labels": [
+			"71.2",
+			"72.67",
+			"73",
+			"79",
+			"80.17",
+			"80.4",
+			"81.83",
+			"83",
+			"83.4",
+			"85",
+			"85.6",
+			"86",
+			"87",
+			"88",
+			"88.2",
+			"88.4",
+			"88.5",
+			"88.8",
+			"89",
+			"89.33",
+			"89.5",
+			"90",
+			"90.4",
+			"91",
+			"92",
+			"92.2",
+			"92.8",
+			"93",
+			"93.2",
+			"94",
+			"94.6",
+			"95"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			3,
+			1,
+			2,
+			1,
+			1,
+			1,
+			5,
+			1,
+			1,
+			5,
+			1,
+			1,
+			3,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 47
+	},
+	"What was your term average in 4A?": {
+		"labels": [
+			"75",
+			"79.4",
+			"80.6",
+			"81",
+			"81.33",
+			"82",
+			"82.4",
+			"82.8",
+			"84.4",
+			"85",
+			"85.83",
+			"86",
+			"86.2",
+			"86.6",
+			"87.2",
+			"87.25",
+			"88",
+			"88.6",
+			"88.8",
+			"89",
+			"90",
+			"90.4",
+			"90.8",
+			"91",
+			"91.6",
+			"92",
+			"92.73",
+			"92.8",
+			"93",
+			"93.2",
+			"93.6",
+			"94.2",
+			"94.5",
+			"95",
+			"95.33",
+			"96.2"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			4,
+			1,
+			1,
+			2,
+			2,
+			1,
+			1,
+			4,
+			1,
+			2,
+			1,
+			1,
+			3,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 49
+	},
+	"What is your cumulative average?": {
+		"labels": [
+			"70.37",
+			"73",
+			"73.76",
+			"76",
+			"80.02",
+			"80.46",
+			"80.58",
+			"81.04",
+			"82",
+			"83",
+			"84",
+			"85.07",
+			"86",
+			"86.06",
+			"86.66",
+			"86.73",
+			"87",
+			"87.33",
+			"87.71",
+			"88",
+			"88.06",
+			"88.12",
+			"88.89",
+			"89",
+			"89.43",
+			"90.14",
+			"90.33",
+			"90.45",
+			"90.54",
+			"90.86",
+			"91",
+			"91.05",
+			"91.15",
+			"91.38",
+			"91.46",
+			"91.91",
+			"92",
+			"92.32",
+			"92.78",
+			"93",
+			"93.86",
+			"94",
+			"94.72",
+			"95",
+			"95.03",
+			"95.18",
+			"95.7"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			3,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 52
+	},
+	"Anything else you'd like to add about academics? (courses, FYDP, etc.)": {
+		"labels": [
+			"CS 449 should have been taken before SE 390 because it helps with FYDP planning",
+			"CS241e is worth it :)",
+			"Doing well in school requires sacrifices, you may not enjoy the courses you're forced to take, so be wary of what you choose to spend your time on. If a course is tricky, it probably is (and has been for past cohorts too).\r\n\r\nCS and MATH courses tend to be more well-organized than ECE courses.\r\nMake sure you can work well with your FYDP group, or be very good at mediation. ",
+			"FYDP might be my least favourite part about SE tbh",
+			"Have the courage to do what feels right (drop into CS earlier)",
+			"I was in a team of 3 for fydp and 1 person was remote the whole time so basically 1 person team.",
+			"In 3B my term average was my 1 course (SE 390) due to being on exchange",
+			"Least useful course was a tie between ECE 106 and CHE102",
+			"Make sure you're friends with everyone in your FYDP group!",
+			"Overload early and overload often! I didn't enjoy the 3a/3b/4a/4b se courses SE 465, SE 464, SE 463 + fydp at all, felt very strongly that they are very useless",
+			"The FYDP courses should improve. SE 490 and 491 have no learning outcome.\r\nHave a mandatory resume workshop/critique in 1A for all students, supported by the university program.",
+			"don't study in SE lmao go to CS literally trust me you will regret SE\r\nmake sure your FYDP team is on the same page on how far you're taking the project/putting effort",
+			"interdisciplinary capstone",
+			"on exchange during 3B, no course average available besides SE390",
+			"take online courses to ease your workload, take courses you like to enjoy school",
+			"we had some good profs and some bad profs"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 16
+	},
+	"What technical extracurriculars did you actively participate in?": {
+		"labels": [
+			"Computer Science Club",
+			"Data Science Club",
+			"Gender Minorities in Software Engineering",
+			"Hack the North Organizing Team",
+			"Midnight Sun Solar Rayce Car Team",
+			"PRISM Art-Tech Collective",
+			"SE Society",
+			"Socratica",
+			"Tech+ UW",
+			"UW Blueprint",
+			"UW Orbital",
+			"UW Women in STEM",
+			"UW/UX",
+			"WATOLINK",
+			"Waterloo Rocketry",
+			"WATonomous",
+			"Women in Computer Science"
+		],
+		"counts": [
+			2,
+			2,
+			4,
+			3,
+			2,
+			1,
+			3,
+			6,
+			1,
+			4,
+			2,
+			1,
+			1,
+			2,
+			1,
+			3,
+			4
+		],
+		"n": 22
+	},
+	"What non-technical extracurriculars did you actively participate in?": {
+		"labels": [
+			"Animusic Ensembles",
+			"Badminton Club",
+			"Board Game Club",
+			"Cheese Club",
+			"Crafts4Charity",
+			"Engineering Orientation",
+			"Fellowship",
+			"Furry Club",
+			"Haebeat Dance",
+			"Humans vs Zombies",
+			"Limelight Dance",
+			"mathNEWS",
+			"Poker Club",
+			"Pure Math Club",
+			"Run Club",
+			"Snow Coalition",
+			"Tea Club",
+			"UW A Cappella Club",
+			"UW Chinese Students Association",
+			"UW Hip Hop",
+			"UW Muslim Students’ Association",
+			"UW Orphan Sponsorship Program",
+			"UW Origins",
+			"UW SERVE",
+			"UW Wrestling Club"
+		],
+		"counts": [
+			2,
+			3,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			3,
+			4,
+			1,
+			1,
+			1,
+			1,
+			4,
+			5,
+			1,
+			1,
+			1,
+			1,
+			3,
+			1
+		],
+		"n": 25
+	},
+	"Are there any extracurriculars you regret not joining? Why?": {
+		"labels": [
+			"Art, music, games, etc. would have been so fun! I wish i made more time for fun clubs",
+			"Cheese Club",
+			"Fencing. Sport I enjoy, but covid made me stop and never picked back up.",
+			"Hack The North",
+			"Hack the North Organizing Team!",
+			"Hack the North organizing, seemed fun",
+			"I didn't do any clubs, wish we had the time to",
+			"Maybe some technical ones like for the design teams, but I did not have much time commit.",
+			"Muay Thai",
+			"No, tbh I kinda regret joining some because of how thin they spread me out",
+			"Not a regret but I will always have a burning hatred for Watanomous for rejecting me 3x in a row :)",
+			"Not joining Animusic sooner",
+			"Poker Club. Would have been fun.",
+			"Probably would have been nice to join some design team, or maybe the game design club, feels like I would've benefitted a lot, both from having a bit more experience and meeting new people.",
+			"Wish I did Muay Thai earlier, also just more clubs in general, also wish I joined soccer intramurals because I watched them and they aren't actually that good",
+			"Wish I did more but covid made it suck!",
+			"blueprint seemed really cool, get to work on tech for good"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 17
+	},
+	"Which intramurals did you participate in?": {
+		"labels": [
+			"Basketball",
+			"Dodgeball",
+			"Flag Football",
+			"Ice Hockey",
+			"Innertube Water Polo",
+			"Soccer",
+			"Spikeball",
+			"Ultimate Frisbee",
+			"Volleyball"
+		],
+		"counts": [
+			5,
+			7,
+			1,
+			2,
+			3,
+			5,
+			4,
+			11,
+			15
+		],
+		"n": 30
+	},
+	"Which terms did you participate in intramurals?": {
+		"labels": [
+			"1A",
+			"1B",
+			"2A",
+			"2B",
+			"3A",
+			"3B",
+			"4A",
+			"4B"
+		],
+		"counts": [
+			1,
+			0,
+			4,
+			9,
+			6,
+			9,
+			13,
+			23
+		],
+		"n": 29
+	},
+	"How many technical side projects did you complete during university?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"10",
+			"12"
+		],
+		"counts": [
+			9,
+			9,
+			14,
+			7,
+			4,
+			1,
+			2,
+			1,
+			2,
+			1
+		],
+		"n": 50
+	},
+	"How many hackathons did you attend in university? [1A]": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"5+"
+		],
+		"counts": [
+			29,
+			21,
+			3,
+			2,
+			1
+		],
+		"n": 56
+	},
+	"How many hackathons did you attend in university? [1B]": {
+		"labels": [
+			"0",
+			"1",
+			"2"
+		],
+		"counts": [
+			36,
+			17,
+			1
+		],
+		"n": 54
+	},
+	"How many hackathons did you attend in university? [2A]": {
+		"labels": [
+			"0",
+			"1",
+			"2"
+		],
+		"counts": [
+			46,
+			8,
+			1
+		],
+		"n": 55
+	},
+	"How many hackathons did you attend in university? [2B]": {
+		"labels": [
+			"0",
+			"1",
+			"4"
+		],
+		"counts": [
+			51,
+			2,
+			1
+		],
+		"n": 54
+	},
+	"How many hackathons did you attend in university? [3A]": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			50,
+			4
+		],
+		"n": 54
+	},
+	"How many hackathons did you attend in university? [3B]": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			53,
+			1
+		],
+		"n": 54
+	},
+	"How many hackathons did you attend in university? [4A]": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			54,
+			1
+		],
+		"n": 55
+	},
+	"How many hackathons did you attend in university? [4B]": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			53,
+			1
+		],
+		"n": 54
+	},
+	"How often do you go out/party on average?": {
+		"labels": [
+			"Multiple times a week",
+			"Multiple times a month",
+			"A few times per term",
+			"A few times per year",
+			"Never"
+		],
+		"counts": [
+			1,
+			12,
+			23,
+			12,
+			9
+		],
+		"n": 57
+	},
+	"How many hours of sleep do you get on average?": {
+		"labels": [
+			"5",
+			"6",
+			"7",
+			"8",
+			"9"
+		],
+		"counts": [
+			1,
+			7,
+			23,
+			19,
+			7
+		],
+		"n": 57
+	},
+	"How many meals do you cook per week on average during school terms?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8",
+			"10",
+			"11",
+			"13",
+			"14",
+			"15",
+			"17",
+			"18",
+			"19",
+			"20",
+			"21"
+		],
+		"counts": [
+			2,
+			4,
+			4,
+			4,
+			2,
+			6,
+			1,
+			1,
+			1,
+			7,
+			1,
+			2,
+			2,
+			6,
+			3,
+			4,
+			2,
+			1,
+			4
+		],
+		"n": 57
+	},
+	"How many meals do you cook per week on average during co-op terms?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8",
+			"10",
+			"11",
+			"12",
+			"13",
+			"14",
+			"15",
+			"16",
+			"17",
+			"18",
+			"19",
+			"20",
+			"21",
+			"23"
+		],
+		"counts": [
+			6,
+			4,
+			3,
+			4,
+			2,
+			2,
+			2,
+			4,
+			3,
+			1,
+			1,
+			1,
+			1,
+			3,
+			2,
+			2,
+			1,
+			5,
+			2,
+			1,
+			3,
+			1
+		],
+		"n": 54
+	},
+	"How many times do you go out to eat per week on average during school terms?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8",
+			"9",
+			"10",
+			"11",
+			"15",
+			"18",
+			"19"
+		],
+		"counts": [
+			3,
+			6,
+			5,
+			13,
+			4,
+			5,
+			2,
+			5,
+			2,
+			2,
+			4,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 55
+	},
+	"How many times do you go out to eat per week on average during co-op terms?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8",
+			"11",
+			"14",
+			"21"
+		],
+		"counts": [
+			4,
+			8,
+			7,
+			9,
+			4,
+			10,
+			2,
+			3,
+			2,
+			2,
+			1,
+			1
+		],
+		"n": 53
+	},
+	"Have you ever had a co-op term without a placement?": {
+		"labels": [
+			"No",
+			"Yes"
+		],
+		"counts": [
+			53,
+			5
+		],
+		"n": 58
+	},
+	"How many co-op offers did you have rescinded?": {
+		"labels": [
+			"0",
+			"1"
+		],
+		"counts": [
+			52,
+			6
+		],
+		"n": 58
+	},
+	"Have you ever been banned from WaterlooWorks for reneging an offer/match?": {
+		"labels": [
+			"No",
+			"Yes"
+		],
+		"counts": [
+			53,
+			5
+		],
+		"n": 58
+	},
+	"Have you ever gotten COVID?": {
+		"labels": [
+			"No",
+			"Yes",
+			"Unsure"
+		],
+		"counts": [
+			13,
+			35,
+			9
+		],
+		"n": 57
+	},
+	"How many times have you gotten COVID?": {
+		"labels": [
+			"1",
+			"2",
+			"3"
+		],
+		"counts": [
+			21,
+			7,
+			7
+		],
+		"n": 35
+	},
+	"Have you ever experienced long COVID symptoms?": {
+		"labels": [
+			"No",
+			"Yes",
+			"Unsure"
+		],
+		"counts": [
+			25,
+			5,
+			5
+		],
+		"n": 35
+	},
+	"How often did you exercise during your undergrad?": {
+		"labels": [
+			"Daily or almost daily (5-7x a week)",
+			"Often (>=3x a week)",
+			"Sometimes (1-2x a week)",
+			"Occasionally (>=1x every 2 weeks)",
+			"Rarely (>= 1x a month)",
+			"Never or almost never"
+		],
+		"counts": [
+			15,
+			12,
+			14,
+			8,
+			7,
+			2
+		],
+		"n": 58
+	},
+	"What types of exercise did you do during your undergrad?": {
+		"labels": [
+			"Badminton",
+			"Cardio",
+			"Dance",
+			"Exercise classes",
+			"Hockey",
+			"Intramurals",
+			"Martial arts",
+			"Open recreation sports",
+			"Rock climbing",
+			"Sports",
+			"Swimming",
+			"Weightlifting/strength training",
+			"Winter sports"
+		],
+		"counts": [
+			2,
+			34,
+			1,
+			1,
+			1,
+			25,
+			4,
+			1,
+			16,
+			1,
+			2,
+			36,
+			1
+		],
+		"n": 54
+	},
+	"If you experienced burnout during SE, what factors contributed?": {
+		"labels": [
+			"Academics (including PD)",
+			"Extracurricular responsibilities",
+			"Job search",
+			"Personal life",
+			"Work",
+			"I have not experienced burnout"
+		],
+		"counts": [
+			39,
+			11,
+			40,
+			31,
+			19,
+			5
+		],
+		"n": 57
+	},
+	"How is your self-esteem now compared to before starting university?": {
+		"labels": [
+			"About the same",
+			"Better",
+			"Worse"
+		],
+		"counts": [
+			10,
+			36,
+			12
+		],
+		"n": 58
+	},
+	"In first year?": {
+		"labels": [
+			"Almost always",
+			"Most of the time",
+			"Sometimes",
+			"Rarely",
+			"Never"
+		],
+		"counts": [
+			16,
+			11,
+			17,
+			8,
+			6
+		],
+		"n": 58
+	},
+	"In 4B?": {
+		"labels": [
+			"Almost always",
+			"Most of the time",
+			"Sometimes",
+			"Rarely",
+			"Never"
+		],
+		"counts": [
+			0,
+			4,
+			22,
+			17,
+			15
+		],
+		"n": 58
+	},
+	"How many times did you ask for a deadline extension due to illness/injury?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"8",
+			"10"
+		],
+		"counts": [
+			26,
+			10,
+			2,
+			7,
+			3,
+			1,
+			3,
+			2
+		],
+		"n": 54
+	},
+	"How many times did you need to visit the ER during your undergrad?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"5"
+		],
+		"counts": [
+			42,
+			5,
+			6,
+			2
+		],
+		"n": 55
+	},
+	"How often do you keep in touch with high school friends?": {
+		"labels": [
+			"Never",
+			"Rarely (less than 1x / month)",
+			"Sometimes (around 1x / month)",
+			"Often (around 1x / week)",
+			"Always (more than 1x / week)"
+		],
+		"counts": [
+			3,
+			12,
+			15,
+			11,
+			17
+		],
+		"n": 58
+	},
+	"How many people in SE25 have you ever met and spoken to in-person?": {
+		"labels": [
+			"10",
+			"15",
+			"20",
+			"30",
+			"35",
+			"40",
+			"45",
+			"47",
+			"50",
+			"55",
+			"57",
+			"60",
+			"70",
+			"80",
+			"90",
+			"91",
+			"125"
+		],
+		"counts": [
+			2,
+			4,
+			7,
+			3,
+			3,
+			9,
+			1,
+			1,
+			12,
+			2,
+			1,
+			2,
+			1,
+			1,
+			2,
+			1,
+			1
+		],
+		"n": 53
+	},
+	"How many close friends do you have that you first met in high school?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"7",
+			"8",
+			"10",
+			"12",
+			"15",
+			"20"
+		],
+		"counts": [
+			11,
+			5,
+			3,
+			9,
+			7,
+			8,
+			3,
+			3,
+			3,
+			1,
+			1,
+			1
+		],
+		"n": 55
+	},
+	"How many close friends do you have that you first met through co-op?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"12"
+		],
+		"counts": [
+			24,
+			9,
+			12,
+			5,
+			1,
+			3,
+			1
+		],
+		"n": 55
+	},
+	"How many close friends do you have that you first met on campus residence?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"counts": [
+			42,
+			5,
+			3,
+			4
+		],
+		"n": 54
+	},
+	"How many close friends do you have that you first met through being part of the SE25 cohort (i.e. by taking the same core courses or attending cohort events)?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8",
+			"10",
+			"20"
+		],
+		"counts": [
+			4,
+			4,
+			6,
+			8,
+			5,
+			13,
+			4,
+			2,
+			3,
+			6,
+			1
+		],
+		"n": 56
+	},
+	"How many close friends do you have that you first met through being part of SE (other cohorts)?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"5",
+			"6",
+			"8",
+			"11"
+		],
+		"counts": [
+			36,
+			9,
+			1,
+			5,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 55
+	},
+	"How many close friends do you have that you first met in extracurriculars (e.g. clubs, sports)?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"15",
+			"30"
+		],
+		"counts": [
+			34,
+			3,
+			6,
+			5,
+			2,
+			3,
+			1,
+			1
+		],
+		"n": 55
+	},
+	"How many close friends do you have that you first met through other means (e.g. parties, Aphrodite project, mutual friends)": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"8",
+			"10",
+			"12"
+		],
+		"counts": [
+			20,
+			6,
+			5,
+			3,
+			2,
+			5,
+			1,
+			1,
+			5,
+			1
+		],
+		"n": 49
+	},
+	"Have you been contacted by the CRA for tax-related reasons?": {
+		"labels": [
+			"No",
+			"Yes"
+		],
+		"counts": [
+			35,
+			23
+		],
+		"n": 58
+	},
+	"Have you ever intentionally committed tax fraud?": {
+		"labels": [
+			"No",
+			"Yes"
+		],
+		"counts": [
+			56,
+			2
+		],
+		"n": 58
+	},
+	"Have you ever unintentionally committed tax fraud?": {
+		"labels": [
+			"No",
+			"Yes"
+		],
+		"counts": [
+			50,
+			8
+		],
+		"n": 58
+	},
+	"What is your current net worth?": {
+		"labels": [
+			"-70000",
+			"-22000",
+			"-3000",
+			"0",
+			"5000",
+			"6000",
+			"10000",
+			"15000",
+			"16000",
+			"20000",
+			"30000",
+			"40000",
+			"50000",
+			"55000",
+			"65000",
+			"70000",
+			"75000",
+			"94800",
+			"100000",
+			"120000",
+			"130000",
+			"150000",
+			"200000",
+			"225000",
+			"250000"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			4,
+			1,
+			3,
+			5,
+			1,
+			3,
+			1,
+			1,
+			1,
+			3,
+			2,
+			2,
+			2,
+			3,
+			1,
+			2
+		],
+		"n": 44
+	},
+	"What percentage of your net worth is invested?": {
+		"labels": [
+			"0%",
+			"(0%, 10%)",
+			"[10%, 25%)",
+			"[25%, 50%)",
+			"[50%, 75%)",
+			"[75%, 90%)",
+			"[90%, 100%)"
+		],
+		"counts": [
+			10,
+			5,
+			8,
+			13,
+			11,
+			3,
+			3
+		],
+		"n": 53
+	},
+	"How much did you borrow in student loans throughout university?": {
+		"labels": [
+			"0",
+			"4800",
+			"10000",
+			"11550",
+			"15000",
+			"20000",
+			"22185.14",
+			"23613",
+			"25000",
+			"26000",
+			"28666",
+			"30000",
+			"31861",
+			"33000",
+			"35000",
+			"36000",
+			"37500",
+			"38000",
+			"40000",
+			"51698",
+			"70000",
+			"80000"
+		],
+		"counts": [
+			17,
+			1,
+			5,
+			1,
+			1,
+			3,
+			1,
+			1,
+			2,
+			1,
+			1,
+			6,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 51
+	},
+	"How satisfied are you about your current financial situation?": {
+		"labels": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8",
+			"9",
+			"10"
+		],
+		"counts": [
+			1,
+			1,
+			2,
+			4,
+			4,
+			5,
+			8,
+			10,
+			10,
+			13
+		],
+		"n": 58
+	},
+	"What are your post graduation plans?": {
+		"labels": [
+			"Employment (actively seeking)",
+			"Employment (received or accepted offer)",
+			"Grad school (actively seeking or accepted offer)",
+			"Unsure",
+			"Other"
+		],
+		"counts": [
+			12,
+			44,
+			2,
+			0,
+			0
+		],
+		"n": 58
+	},
+	"How many grad school offers have you received so far?": {
+		"labels": [
+			"1",
+			"3"
+		],
+		"counts": [
+			1,
+			1
+		],
+		"n": 0
+	},
+	"Which school?": {
+		"labels": [
+			"Georgia Institute of Technology",
+			"University of Waterloo"
+		],
+		"counts": [
+			1,
+			1
+		],
+		"n": 0
+	},
+	"What is your research topic or program?": {
+		"labels": [
+			"Operating Systems",
+			"Programming Languages, Formal Methods"
+		],
+		"counts": [
+			1,
+			1
+		],
+		"n": 0
+	},
+	"Why did you choose to pursue grad school over full-time employment?": {
+		"labels": [
+			"Higher education, research experience, topic-based specialization.",
+			"I hate having money"
+		],
+		"counts": [
+			1,
+			1
+		],
+		"n": 2
+	},
+	"How many full-time offers have you received so far?": {
+		"labels": [
+			"1",
+			"2",
+			"3",
+			"5",
+			"8"
+		],
+		"counts": [
+			14,
+			19,
+			8,
+			1,
+			1
+		],
+		"n": 43
+	},
+	"If you have accepted an offer, which company?": {
+		"labels": [
+			"Amazon",
+			"Anthropic",
+			"Apple",
+			"Bloomberg",
+			"CC&L",
+			"Capital One",
+			"Cloudflare",
+			"Databricks",
+			"Datadog",
+			"Figma",
+			"Google",
+			"Google Deepmind",
+			"Jane Street",
+			"Meta",
+			"Netflix",
+			"Notion",
+			"Nvidia",
+			"Optiver",
+			"PlayStation",
+			"Robinhood",
+			"Snowflake",
+			"StackAdapt",
+			"Stripe",
+			"Tesla",
+			"X (Twitter)"
+		],
+		"counts": [
+			1,
+			1,
+			2,
+			2,
+			1,
+			1,
+			1,
+			3,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			3
+		],
+		"n": 33
+	},
+	"How large is the company that extended your full-time offer (number of employees)?": {
+		"labels": [
+			"2-10",
+			"11-50",
+			"51-200",
+			"201-500",
+			"501-1k",
+			"1k-5k",
+			"5k-10k",
+			"10k+"
+		],
+		"counts": [
+			0,
+			0,
+			0,
+			0,
+			4,
+			12,
+			4,
+			13
+		],
+		"n": 33
+	},
+	"Which industry is the company that extended your full-time offer in?": {
+		"labels": [
+			"Computer and Network Security",
+			"Computers and Electronics Manufacturing",
+			"Computer Hardware Manufacturing",
+			"Design Services",
+			"Entertainment Providers",
+			"Financial Services",
+			"Motor Vehicle Manufacturing",
+			"Research Services",
+			"Software Development",
+			"Technology, Information and Internet"
+		],
+		"counts": [
+			1,
+			2,
+			1,
+			1,
+			1,
+			8,
+			1,
+			2,
+			14,
+			2
+		],
+		"n": 33
+	},
+	"When are you starting full-time work?": {
+		"labels": [
+			"Already Started",
+			"May",
+			"June",
+			"July",
+			"August",
+			"September"
+		],
+		"counts": [
+			1,
+			3,
+			5,
+			15,
+			14,
+			6
+		],
+		"n": 44
+	},
+	"How many days per week do you plan to work remotely?": {
+		"labels": [
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5"
+		],
+		"counts": [
+			20,
+			9,
+			11,
+			2,
+			0,
+			1
+		],
+		"n": 43
+	},
+	"Are you returning to a previous co-op?": {
+		"labels": [
+			"No",
+			"Yes"
+		],
+		"counts": [
+			18,
+			25
+		],
+		"n": 43
+	},
+	"If you are returning to a previous co-op, when did you work for that company?": {
+		"labels": [
+			"Co-op 1",
+			"Co-op 2",
+			"Co-op 3",
+			"Co-op 4",
+			"Co-op 5",
+			"Co-op 6"
+		],
+		"counts": [
+			1,
+			1,
+			3,
+			6,
+			9,
+			18
+		],
+		"n": 25
+	},
+	"What is your total first-year compensation?": {
+		"labels": [
+			"113000",
+			"138666",
+			"150000",
+			"157000",
+			"165000",
+			"175000",
+			"218318",
+			"220220",
+			"221293",
+			"265980",
+			"268840",
+			"271700",
+			"276562",
+			"283140",
+			"286000",
+			"301015",
+			"307450",
+			"311025",
+			"314600",
+			"321750",
+			"322322",
+			"329854",
+			"336050",
+			"389675",
+			"417560",
+			"464750",
+			"500500",
+			"519850",
+			"586300",
+			"715000",
+			"822250",
+			"1866150"
+		],
+		"counts": [
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			4,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 0
+	},
+	"What is your annual base salary?": {
+		"labels": [
+			"98000",
+			"100000",
+			"105000",
+			"113000",
+			"130000",
+			"150000",
+			"165000",
+			"178750",
+			"185900",
+			"194480",
+			"195910",
+			"197340",
+			"198055",
+			"200200",
+			"207350",
+			"210210",
+			"214500",
+			"218790",
+			"220220",
+			"221650",
+			"225940",
+			"228800",
+			"235950",
+			"243100",
+			"250250",
+			"257400",
+			"293150",
+			"357500",
+			"397750",
+			"429000",
+			"450450"
+		],
+		"counts": [
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			4,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			2,
+			1,
+			3,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2
+		],
+		"n": 0
+	},
+	"What is your one-time sign-on bonus?": {
+		"labels": [
+			"0",
+			"4290",
+			"5000",
+			"14300",
+			"15000",
+			"15730",
+			"17875",
+			"20000",
+			"21450",
+			"25740",
+			"28600",
+			"38610",
+			"42900",
+			"45760",
+			"50050",
+			"58630",
+			"65000",
+			"71500",
+			"250250"
+		],
+		"counts": [
+			7,
+			2,
+			1,
+			5,
+			1,
+			1,
+			1,
+			1,
+			6,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			3,
+			2
+		],
+		"n": 0
+	},
+	"What is the value of your first-year stock grant?": {
+		"labels": [
+			"0",
+			"5550",
+			"26000",
+			"28633",
+			"30030",
+			"37180",
+			"42900",
+			"44330",
+			"45474",
+			"45760",
+			"47190",
+			"60775",
+			"72072",
+			"89375",
+			"96525",
+			"97240",
+			"102723",
+			"120250",
+			"141570",
+			"300300",
+			"314600",
+			"1394250"
+		],
+		"counts": [
+			13,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			3,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 0
+	},
+	"What is your total stock grant value?": {
+		"labels": [
+			"0",
+			"28633",
+			"45474",
+			"60775",
+			"65000",
+			"78650",
+			"100100",
+			"111000",
+			"120120",
+			"143000",
+			"150150",
+			"180180",
+			"243100",
+			"288288",
+			"357500",
+			"386100",
+			"393250",
+			"410888",
+			"481000",
+			"567710",
+			"1258400",
+			"5577000"
+		],
+		"counts": [
+			12,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 0
+	},
+	"What is your end-of-year/recurring annual compensation?": {
+		"labels": [
+			"0",
+			"19448",
+			"21450",
+			"42900",
+			"98000",
+			"138666",
+			"143000",
+			"150000",
+			"170000",
+			"178750",
+			"214500",
+			"228800",
+			"256256",
+			"257400",
+			"268840",
+			"296725",
+			"308022",
+			"321750",
+			"358930",
+			"519850",
+			"557700"
+		],
+		"counts": [
+			13,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 0
+	},
+	"How content are you with your post-grad plans?": {
+		"labels": [
+			"Very content | 5",
+			"4",
+			"3",
+			"2",
+			"Not content | 1"
+		],
+		"counts": [
+			18,
+			20,
+			6,
+			0,
+			0
+		],
+		"n": 44
+	},
+	"What city will you be living in full-time after graduation?": {
+		"labels": [
+			"Austin, TX",
+			"Chicago, IL",
+			"Cupertino, CA",
+			"London (UK)",
+			"Menlo Park, CA",
+			"Miami, FL",
+			"New York, NY",
+			"Palo Alto, CA",
+			"San Francisco, CA",
+			"San Mateo, CA",
+			"Seattle, WA",
+			"Sunnyvale, CA",
+			"Toronto, ON",
+			"Vancouver, BC",
+			"Waterloo, ON"
+		],
+		"counts": [
+			1,
+			1,
+			2,
+			1,
+			2,
+			1,
+			13,
+			1,
+			10,
+			1,
+			1,
+			1,
+			7,
+			1,
+			1
+		],
+		"n": 44
+	},
+	"What were the 3 most important motivators in your full-time decision?  [Compensation]": {
+		"labels": [
+			"Motivator #1",
+			"Motivator #2",
+			"Motivator #3"
+		],
+		"counts": [
+			12,
+			13,
+			6
+		],
+		"n": 42
+	},
+	"What were the 3 most important motivators in your full-time decision?  [Proximity to Friends]": {
+		"labels": [
+			"Motivator #2",
+			"Motivator #3"
+		],
+		"counts": [
+			3,
+			2
+		],
+		"n": 5
+	},
+	"What were the 3 most important motivators in your full-time decision?  [Proximity to Family]": {
+		"labels": [
+			"Motivator #2",
+			"Motivator #3"
+		],
+		"counts": [
+			1,
+			6
+		],
+		"n": 7
+	},
+	"What were the 3 most important motivators in your full-time decision?  [Proximity to Significant Other]": {
+		"labels": [
+			"Motivator #1",
+			"Motivator #2"
+		],
+		"counts": [
+			2,
+			1
+		],
+		"n": 3
+	},
+	"What were the 3 most important motivators in your full-time decision?  [City choice]": {
+		"labels": [
+			"Motivator #1",
+			"Motivator #2",
+			"Motivator #3"
+		],
+		"counts": [
+			4,
+			5,
+			8
+		],
+		"n": 17
+	},
+	"What were the 3 most important motivators in your full-time decision?  [Cost of Living]": {
+		"labels": [
+			"Motivator #3"
+		],
+		"counts": [
+			1
+		],
+		"n": 1
+	},
+	"What were the 3 most important motivators in your full-time decision?  [Interest in Work]": {
+		"labels": [
+			"Motivator #1",
+			"Motivator #2",
+			"Motivator #3"
+		],
+		"counts": [
+			10,
+			5,
+			4
+		],
+		"n": 19
+	},
+	"What were the 3 most important motivators in your full-time decision?  [Interest in Team]": {
+		"labels": [
+			"Motivator #1",
+			"Motivator #2",
+			"Motivator #3"
+		],
+		"counts": [
+			6,
+			2,
+			1
+		],
+		"n": 9
+	},
+	"What were the 3 most important motivators in your full-time decision?  [Interest in Product]": {
+		"labels": [
+			"Motivator #1",
+			"Motivator #2",
+			"Motivator #3"
+		],
+		"counts": [
+			1,
+			2,
+			2
+		],
+		"n": 5
+	},
+	"What were the 3 most important motivators in your full-time decision?  [Company Fit (WLB, Culture)]": {
+		"labels": [
+			"Motivator #1",
+			"Motivator #2",
+			"Motivator #3"
+		],
+		"counts": [
+			6,
+			7,
+			9
+		],
+		"n": 22
+	},
+	"What were the 3 most important motivators in your full-time decision?  [Remote Work]": {
+		"labels": [
+			"Motivator #2"
+		],
+		"counts": [
+			1
+		],
+		"n": 1
+	},
+	"What were the 3 most important motivators in your full-time decision?  [In-Person Work]": {
+		"labels": [
+			"Motivator #2"
+		],
+		"counts": [
+			2
+		],
+		"n": 2
+	},
+	"What were the 3 most important motivators in your full-time decision?  [Vibes]": {
+		"labels": [
+			"Motivator #1",
+			"Motivator #2",
+			"Motivator #3"
+		],
+		"counts": [
+			3,
+			3,
+			4
+		],
+		"n": 10
+	},
+	"Anything else to add about full-time?": {
+		"labels": [
+			"Did not explicitly apply to any FT jobs, all return offers",
+			"my \"stock grants\" are as RSUs - and that's over 4 years so i divided it by 4 for first year comp"
+		],
+		"counts": [
+			1,
+			1
+		],
+		"n": 2
+	},
+	"Are you left-handed, right-handed, or ambidextrous?": {
+		"labels": [
+			"Ambidextrous",
+			"Left-handed",
+			"Right-handed"
+		],
+		"counts": [
+			1,
+			7,
+			51
+		],
+		"n": 59
+	},
+	"Favourite SE25-related memory?": {
+		"labels": [
+			"3A Semi formal",
+			"A chaotic trip to LA",
+			"Abdur's rant about money",
+			"All the various SE-events we've held and the dance party and talent shows in particular.",
+			"Discord class memes",
+			"First ECE105 lecture online with prof Mansour",
+			"Going to events with cohort friends.",
+			"Grad prank",
+			"Hanging out with friends late in EIT - it's where all the interesting conversation starts coming out",
+			"IRS",
+			"IRS was fun (can't remember that far back)",
+			"Passing 2B",
+			"Putting up the SE25 banner on prank night, SE bonfires in 2B, studying in EIT, performing & watching others perform at Bim Bortons Coffeehouse (all iterations), hanging out with cohort friends during co-op terms",
+			"SE campfire days back in second year",
+			"Seeing the northern lights in a hot spring in Iceland on exchange, and then having soup after",
+			"Stealing a bunch of Aerons from an office that was closing down with friends",
+			"The shenanigans going on in the SE lounge in EIT.",
+			"Working on the grade prank - seeing people come in throughout the day to make their handprints on the banner, and seeing everyone gather for the setup night!",
+			"coffee house 3a",
+			"grad prank was very fun and chaotic :)",
+			"hackman typing contest",
+			"nothing comes to mind immediately",
+			"SE25 bonfires",
+			"se potluck",
+			"walking to cambridge multiple times on a whim"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"n": 25
+	},
+	"What countries did you travel to during your degree?": {
+		"labels": [
+			"Antarctica",
+			"Antigua and Barbuda,",
+			"Argentina",
+			"Austria",
+			"Barbados",
+			"Belgium",
+			"Brazil",
+			"Cambodia",
+			"Chile",
+			"China",
+			"Cuba",
+			"Czechia",
+			"Denmark",
+			"Egypt",
+			"England",
+			"France",
+			"Germany",
+			"Greece",
+			"Hong Kong",
+			"Hungary",
+			"Iceland",
+			"India",
+			"Indonesia",
+			"Ireland",
+			"Israel",
+			"Italy",
+			"Japan",
+			"Latvia",
+			"Liechtenstein",
+			"Luxembourg",
+			"Macau",
+			"Malaysia",
+			"Malta",
+			"Mexico",
+			"Monaco",
+			"Norway",
+			"Pakistan",
+			"Peru",
+			"Philippines",
+			"Poland",
+			"Portugal",
+			"Qatar",
+			"Singapore",
+			"Slovakia",
+			"South Korea",
+			"Spain",
+			"St. Lucia",
+			"Sweden",
+			"Switzerland",
+			"Taiwan",
+			"Thailand",
+			"The Netherlands",
+			"Turkey",
+			"UK",
+			"USA",
+			"Ukraine",
+			"Uruguay",
+			"Vatican City",
+			"Vietnam",
+			"Wales"
+		],
+		"counts": [
+			1,
+			1,
+			1,
+			8,
+			1,
+			10,
+			1,
+			1,
+			1,
+			9,
+			1,
+			7,
+			9,
+			1,
+			2,
+			14,
+			12,
+			4,
+			5,
+			6,
+			12,
+			2,
+			1,
+			4,
+			1,
+			19,
+			13,
+			5,
+			1,
+			4,
+			2,
+			2,
+			1,
+			3,
+			4,
+			4,
+			1,
+			2,
+			2,
+			8,
+			10,
+			1,
+			4,
+			4,
+			6,
+			13,
+			1,
+			5,
+			12,
+			4,
+			3,
+			11,
+			3,
+			21,
+			46,
+			1,
+			1,
+			4,
+			3,
+			1
+		],
+		"n": 53
+	},
+	"Favourite study spot?": {
+		"labels": [
+			"DC",
+			"E5/E7",
+			"E6",
+			"EIT",
+			"EV3",
+			"HH",
+			"Home",
+			"M3",
+			"MC",
+			"QNC",
+			"STC"
+		],
+		"counts": [
+			6,
+			9,
+			1,
+			6,
+			2,
+			1,
+			27,
+			1,
+			3,
+			1,
+			1
+		],
+		"n": 58
+	},
+	"What grocery store did you most frequently shop at?": {
+		"labels": [
+			"Central Fresh Market",
+			"Costco",
+			"Farah's",
+			"Farm Boy",
+			"Food Basics",
+			"Jared's Your Independent Grocer (formerly Bob's Valumart)",
+			"No Frills",
+			"Sobeys",
+			"T&T",
+			"Walmart",
+			"Waterloo Central Supermarket",
+			"Zehrs"
+		],
+		"counts": [
+			1,
+			3,
+			1,
+			2,
+			1,
+			4,
+			3,
+			6,
+			17,
+			14,
+			1,
+			3
+		],
+		"n": 56
+	}
+}

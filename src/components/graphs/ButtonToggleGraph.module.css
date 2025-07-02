@@ -1,0 +1,60 @@
+.graphWrapper {
+	position: relative;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 1fr;
+}
+
+.toggleButtonContainer {
+	display: flex;
+	margin-top: 20px;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.toggleButtonContainer button {
+	font-size: 16px;
+	font-family: var(--font-geist-mono);
+	padding: 5px;
+	margin: 5px;
+	border-radius: 10px;
+	border: none;
+	color: #ffffff;
+	box-shadow: 0 8px 0 #373737;
+	transition: all 0.3s;
+	cursor: pointer;
+}
+
+.toggleButtonContainer button:hover {
+	filter: brightness(125%);
+}
+
+.toggleButtonContainer button.active {
+	filter: brightness(75%);
+	box-shadow: 0 2px 0 #373737;
+	cursor: default;
+	transform: translateY(6px);
+}
+
+.flexContainer {
+	display: flex;
+	gap: 30px;
+	flex-direction: row;
+}
+
+.reverseMobileFlexContainer {}
+
+@media (max-width: 800px) {
+	.flexContainer {
+		display: flex;
+		gap: 30px;
+		flex-direction: column;
+	}
+
+	.reverseMobileFlexContainer {
+		display: flex;
+		flex-direction: column-reverse;
+		gap: 30px;
+	}
+}

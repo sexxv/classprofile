@@ -1,0 +1,38 @@
+.wrapper {
+	padding: 80px;
+	background-color: #021a2f;
+}
+
+.tableOfContentsSection {
+	width: 100%;
+	display: grid;
+	grid-template-columns: 50% 50%;
+	margin-top: 30px;
+}
+
+.sectionEntry {
+	margin-bottom: 20px;
+}
+
+.number {
+	display: inline-block;
+	width: 32px;
+}
+
+.desc {
+	color: #aaa;
+}
+
+@media (max-width: 800px) {
+	.wrapper {
+		padding: 30px;
+		background-color: #021a2f;
+	}
+
+	.tableOfContentsSection {
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		margin-top: 30px;
+	}
+}

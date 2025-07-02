@@ -1,0 +1,446 @@
+{
+	"Full-Time Salary vs. Gender": [
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "586300"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "157000"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "500500"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "113000"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "311025"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "268840"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "519850"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "150000"
+		},
+		{
+			"Gender": "Woman",
+			"Full-Time Salary": "271700"
+		},
+		{
+			"Gender": "Woman",
+			"Full-Time Salary": "389675"
+		},
+		{
+			"Gender": "Woman",
+			"Full-Time Salary": "715000"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "286000"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "314600"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "220220"
+		},
+		{
+			"Gender": "Woman",
+			"Full-Time Salary": "221293"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "175000"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "283140"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "417560"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "301015"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "336050"
+		},
+		{
+			"Gender": "Woman",
+			"Full-Time Salary": "265980"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "1866150"
+		},
+		{
+			"Gender": "Woman",
+			"Full-Time Salary": "276562"
+		},
+		{
+			"Gender": "Woman",
+			"Full-Time Salary": "307450"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "307450"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "138666"
+		},
+		{
+			"Gender": "Woman",
+			"Full-Time Salary": "218318"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "322322"
+		},
+		{
+			"Gender": "Woman",
+			"Full-Time Salary": "329854"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "286000"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "150000"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "464750"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "286000"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "822250"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "271700"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "165000"
+		},
+		{
+			"Gender": "Man",
+			"Full-Time Salary": "321750"
+		}
+	],
+	"Full-Time Salary vs. Family Income": {
+		"labels": [
+			"0-49k / year",
+			"50k-99k / year",
+			"100k-149k / year",
+			"150k-199k / year",
+			"200k-249k / year",
+			"250k+ / year"
+		],
+		"data": [
+			{
+				"Family Income": "0-49k / year",
+				"Full-Time Salary": "265980"
+			},
+			{
+				"Family Income": "150k-199k / year",
+				"Full-Time Salary": "175000"
+			},
+			{
+				"Family Income": "200k-249k / year",
+				"Full-Time Salary": "268840"
+			},
+			{
+				"Family Income": "0-49k / year",
+				"Full-Time Salary": "519850"
+			},
+			{
+				"Family Income": "250k+ / year",
+				"Full-Time Salary": "286000"
+			},
+			{
+				"Family Income": "50k-99k / year",
+				"Full-Time Salary": "157000"
+			},
+			{
+				"Family Income": "200k-249k / year",
+				"Full-Time Salary": "822250"
+			},
+			{
+				"Family Income": "50k-99k / year",
+				"Full-Time Salary": "271700"
+			},
+			{
+				"Family Income": "150k-199k / year",
+				"Full-Time Salary": "1866150"
+			},
+			{
+				"Family Income": "150k-199k / year",
+				"Full-Time Salary": "586300"
+			},
+			{
+				"Family Income": "100k-149k / year",
+				"Full-Time Salary": "276562"
+			},
+			{
+				"Family Income": "200k-249k / year",
+				"Full-Time Salary": "417560"
+			},
+			{
+				"Family Income": "200k-249k / year",
+				"Full-Time Salary": "220220"
+			},
+			{
+				"Family Income": "50k-99k / year",
+				"Full-Time Salary": "221293"
+			},
+			{
+				"Family Income": "0-49k / year",
+				"Full-Time Salary": "283140"
+			},
+			{
+				"Family Income": "50k-99k / year",
+				"Full-Time Salary": "500500"
+			},
+			{
+				"Family Income": "250k+ / year",
+				"Full-Time Salary": "150000"
+			},
+			{
+				"Family Income": "0-49k / year",
+				"Full-Time Salary": "301015"
+			},
+			{
+				"Family Income": "50k-99k / year",
+				"Full-Time Salary": "329854"
+			},
+			{
+				"Family Income": "150k-199k / year",
+				"Full-Time Salary": "336050"
+			},
+			{
+				"Family Income": "150k-199k / year",
+				"Full-Time Salary": "165000"
+			},
+			{
+				"Family Income": "150k-199k / year",
+				"Full-Time Salary": "138666"
+			},
+			{
+				"Family Income": "100k-149k / year",
+				"Full-Time Salary": "271700"
+			},
+			{
+				"Family Income": "50k-99k / year",
+				"Full-Time Salary": "314600"
+			},
+			{
+				"Family Income": "50k-99k / year",
+				"Full-Time Salary": "113000"
+			},
+			{
+				"Family Income": "200k-249k / year",
+				"Full-Time Salary": "464750"
+			},
+			{
+				"Family Income": "0-49k / year",
+				"Full-Time Salary": "286000"
+			},
+			{
+				"Family Income": "100k-149k / year",
+				"Full-Time Salary": "150000"
+			},
+			{
+				"Family Income": "50k-99k / year",
+				"Full-Time Salary": "307450"
+			},
+			{
+				"Family Income": "150k-199k / year",
+				"Full-Time Salary": "311025"
+			},
+			{
+				"Family Income": "200k-249k / year",
+				"Full-Time Salary": "321750"
+			},
+			{
+				"Family Income": "0-49k / year",
+				"Full-Time Salary": "322322"
+			},
+			{
+				"Family Income": "100k-149k / year",
+				"Full-Time Salary": "715000"
+			},
+			{
+				"Family Income": "100k-149k / year",
+				"Full-Time Salary": "286000"
+			}
+		]
+	},
+	"Full-Time Salary vs. GPA": [
+		{
+			"GPA": "86.06",
+			"Full-Time Salary": "221293"
+		},
+		{
+			"GPA": "81.04",
+			"Full-Time Salary": "307450"
+		},
+		{
+			"GPA": "85.07",
+			"Full-Time Salary": "329854"
+		},
+		{
+			"GPA": "93",
+			"Full-Time Salary": "322322"
+		},
+		{
+			"GPA": "90.45",
+			"Full-Time Salary": "276562"
+		},
+		{
+			"GPA": "95.7",
+			"Full-Time Salary": "822250"
+		},
+		{
+			"GPA": "88.89",
+			"Full-Time Salary": "271700"
+		},
+		{
+			"GPA": "94",
+			"Full-Time Salary": "715000"
+		},
+		{
+			"GPA": "83",
+			"Full-Time Salary": "286000"
+		},
+		{
+			"GPA": "83",
+			"Full-Time Salary": "271700"
+		},
+		{
+			"GPA": "91.15",
+			"Full-Time Salary": "268840"
+		},
+		{
+			"GPA": "92",
+			"Full-Time Salary": "286000"
+		},
+		{
+			"GPA": "91.46",
+			"Full-Time Salary": "464750"
+		},
+		{
+			"GPA": "92.32",
+			"Full-Time Salary": "417560"
+		},
+		{
+			"GPA": "92",
+			"Full-Time Salary": "314600"
+		},
+		{
+			"GPA": "80.58",
+			"Full-Time Salary": "150000"
+		},
+		{
+			"GPA": "88.12",
+			"Full-Time Salary": "586300"
+		},
+		{
+			"GPA": "91",
+			"Full-Time Salary": "321750"
+		},
+		{
+			"GPA": "95.18",
+			"Full-Time Salary": "336050"
+		},
+		{
+			"GPA": "91.38",
+			"Full-Time Salary": "113000"
+		},
+		{
+			"GPA": "88",
+			"Full-Time Salary": "389675"
+		},
+		{
+			"GPA": "86.66",
+			"Full-Time Salary": "157000"
+		},
+		{
+			"GPA": "87",
+			"Full-Time Salary": "283140"
+		},
+		{
+			"GPA": "90.54",
+			"Full-Time Salary": "220220"
+		},
+		{
+			"GPA": "89.43",
+			"Full-Time Salary": "175000"
+		},
+		{
+			"GPA": "86.73",
+			"Full-Time Salary": "165000"
+		},
+		{
+			"GPA": "92.78",
+			"Full-Time Salary": "1866150"
+		},
+		{
+			"GPA": "70.37",
+			"Full-Time Salary": "307450"
+		},
+		{
+			"GPA": "80.02",
+			"Full-Time Salary": "138666"
+		},
+		{
+			"GPA": "95.03",
+			"Full-Time Salary": "500500"
+		},
+		{
+			"GPA": "80.46",
+			"Full-Time Salary": "519850"
+		},
+		{
+			"GPA": "89",
+			"Full-Time Salary": "311025"
+		},
+		{
+			"GPA": "91.91",
+			"Full-Time Salary": "301015"
+		},
+		{
+			"GPA": "93",
+			"Full-Time Salary": "150000"
+		},
+		{
+			"GPA": "91.05",
+			"Full-Time Salary": "218318"
+		},
+		{
+			"GPA": "76",
+			"Full-Time Salary": "265980"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"name": "se25-class-profile",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint",
+		"pretty": "prettier --write \"./**/*.{js,jsx,mjs,cjs,ts,tsx,json}\""
+	},
+	"dependencies": {
+		"@next/third-parties": "^15.3.4",
+		"d3": "^7.9.0",
+		"d3-cloud": "^1.2.7",
+		"d3-sankey": "^0.12.3",
+		"focus-trap-react": "^11.0.4",
+		"next": "^15.3.4",
+		"react": "^19.0.0",
+		"react-dom": "^19.0.0",
+		"react-scroll": "^1.9.3"
+	},
+	"devDependencies": {
+		"@eslint/eslintrc": "^3",
+		"@types/d3": "^7.4.3",
+		"@types/d3-cloud": "^1.2.9",
+		"@types/d3-sankey": "^0.12.4",
+		"@types/node": "^20",
+		"@types/react": "^19",
+		"@types/react-dom": "^19",
+		"@types/react-scroll": "^1.8.10",
+		"eslint": "^9",
+		"eslint-config-next": "15.2.2",
+		"prettier": "^3.5.3",
+		"typescript": "^5"
+	}
+}

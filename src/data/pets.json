@@ -1,0 +1,38 @@
+[
+    {
+        "Budgies": {
+            "n": 1,
+            "emoji": "🦜"
+        }, 
+        "Bunnies" : {
+            "n": 1,
+            "emoji": "🐇"
+        },
+        "Cats" : {
+            "n": 11,
+            "emoji": "🐈"
+        },
+        "Dogs": {
+            "n": 8,
+            "emoji": "🐕"
+        }
+    },
+    {
+        "Fish": {
+            "n": 1,
+            "emoji": "🐠"
+        }, 
+        "Pet Rock" : {
+            "n": 1,
+            "emoji": "🪨"
+        },
+        "Snail" : {
+            "n": 1,
+            "emoji": "🐌"
+        },
+        "Turtles": {
+            "n": 1,
+            "emoji": "🐢"
+        }
+    }		
+]

@@ -1,0 +1,106 @@
+.overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background: rgba(0, 0, 0, 0.6);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	z-index: 2000;
+}
+
+.parent {
+	font-family: var(--font-jersey-10);
+	background: rgba(0, 0, 0, 1);
+	padding: 1em;
+	border: solid;
+	font-size: 16px;
+	vertical-align: middle;
+	display: flex;
+	justify-content: center;
+	color: var(--font-color);
+
+	max-width: 90%;
+	max-height: 80vh;
+	z-index: 2001;
+}
+
+.exit {
+	position: relative;
+	top: 0;
+	right: 0;
+	max-height: 0px;
+	cursor: pointer;
+}
+
+.photo {
+	position: relative;
+	width: 30%;
+	aspect-ratio: 1 / 1;
+	display: inline-block;
+	margin: 1em;
+}
+
+.photo img {
+	object-fit: contain;
+	vertical-align: middle;
+}
+
+.textbox {
+	position: relative;
+	width: 70%;
+	display: block;
+	white-space: pre-wrap;
+
+	padding: 1em;
+	overflow-y: auto;
+
+	font-weight: normal;
+}
+
+.hiddenSizer {
+	visibility: hidden;
+	overflow: hidden;
+	pointer-events: none;
+}
+
+.textContent {
+	top: 0;
+	z-index: 1;
+	position: absolute;
+	float: left;
+	margin-top: 1em; /* same as padding in textbox */
+	margin-right: 1em; /* same as padding in textbox */
+	white-space: pre-wrap;
+}
+
+/* handling viewport sizes */
+@media (max-width: 800px) {
+	.photo {
+		display: none;
+	}
+	.textbox {
+		width: 100%;
+		font-size: 16px;
+	}
+}
+
+@media (min-width: 1500px) {
+	.textbox {
+		font-size: 18px;
+	}
+}
+
+@media (min-width: 2000px) {
+	.textbox {
+		font-size: 22px;
+	}
+}
+
+@media (min-width: 2500px) {
+	.textbox {
+		font-size: 24px;
+	}
+}

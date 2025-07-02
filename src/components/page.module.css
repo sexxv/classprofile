@@ -1,0 +1,440 @@
+.page {
+	display: grid;
+	grid-template-rows: 20px 1fr 20px;
+	align-items: center;
+	justify-items: center;
+	min-height: 100svh;
+	padding: 80px;
+	gap: 64px;
+	font-family: var(--font-athiti);
+}
+
+.main {
+	display: flex;
+	flex-direction: column;
+	gap: 32px;
+	grid-row-start: 2;
+}
+
+.main ol {
+	font-family: var(--font-geist-mono);
+	padding-left: 0;
+	margin: 0;
+	font-size: 14px;
+	line-height: 24px;
+	letter-spacing: -0.01em;
+	list-style-position: inside;
+}
+
+.main li:not(:last-of-type) {
+	margin-bottom: 8px;
+}
+
+.main code {
+	font-family: inherit;
+	background: var(--gray-alpha-100);
+	padding: 2px 4px;
+	border-radius: 4px;
+	font-weight: 600;
+}
+
+a.primary {
+	background: var(--foreground);
+	color: var(--background);
+	gap: 8px;
+}
+
+a.secondary {
+	border-color: var(--gray-alpha-200);
+	min-width: 158px;
+}
+
+.title {
+	font-family: var(--font-jersey-10);
+	font-weight: 400;
+	font-size: 58px;
+	color: white;
+	text-shadow: -1px 1px 1px white;
+	padding-top: 50px;
+}
+
+.subtitle {
+	font-family: var(--font-jersey-10);
+	font-weight: 400;
+	font-size: 40px;
+	padding-top: 50px;
+}
+
+.subsubtitle {
+	font-family: var(--font-jersey-10);
+	font-weight: 400;
+	font-size: 32px;
+}
+
+.text {
+	font-family: var(--font-athiti);
+	font-size: 16x;
+}
+
+/* Enable hover only on non-touch devices */
+@media (hover: hover) and (pointer: fine) {
+	a.primary:hover {
+		background: var(--button-primary-hover);
+		border-color: transparent;
+	}
+
+	a.secondary:hover {
+		background: var(--button-secondary-hover);
+		border-color: transparent;
+	}
+}
+
+@media (max-width: 600px) {
+	.page {
+		padding: 32px;
+		padding-bottom: 80px;
+	}
+
+	.main {
+		align-items: center;
+	}
+
+	.main ol {
+		text-align: center;
+	}
+
+	a.secondary {
+		min-width: auto;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	.logo {
+		filter: invert();
+	}
+}
+
+.main {
+	scroll-behavior: smooth;
+}
+
+.titlePage {
+	background-color: #021a2f;
+	color: white;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+
+	font-family: var(--font-jersey-10);
+}
+
+.content {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin: auto 10%;
+}
+
+.title {
+	flex: 7;
+}
+
+.title h1 {
+	font-size: 72px;
+	font-weight: normal;
+}
+
+.title p {
+	font-size: 48px;
+}
+
+.icon {
+	position: relative;
+	flex: 4;
+}
+
+.nextWrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+a.subsubtitle {
+	text-decoration: underline;
+	color: white;
+	transition: color 0.3s ease;
+}
+
+a:hover.subsubtitle {
+	color: #ae83d8;
+}
+
+.subsection {
+	margin: 20px auto;
+	padding: 50px;
+	background-color: inherit;
+	border: 1px solid white;
+	border-radius: 30px;
+}
+
+.next {
+	/*
+	  border: 5px solid white;
+	  border-radius: 10px;
+	  padding: 1em;
+  
+	  transition: background-color 0.2s;
+	  */
+	display: inline-flex;
+	flex-direction: row;
+	gap: 40px;
+	justify-content: center;
+}
+
+.next div {
+	font-size: 72px;
+}
+
+.bouncing {
+	animation-name: bounce;
+	animation-duration: 0.8s;
+	animation-timing-function: ease-out;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+
+@keyframes bounce {
+	from {
+		transform: translateY(0px);
+	}
+
+	to {
+		transform: translateY(-30px);
+	}
+}
+
+.halfWidthContainer {
+	display: flex;
+	justify-content: space-between;
+	column-gap: 60px;
+	margin: 20px 0px 40px;
+	padding-top: 40px;
+}
+
+.halfWidthContainer > section {
+	width: 50%;
+	flex-direction: column;
+}
+
+.halfWidthContainer > section:first-child {
+	margin-top: -40px;
+	/* just trust me */
+}
+
+.halfWidthContainer > section:nth-child(2) {
+	margin-top: -40px;
+	/* just trust me */
+}
+
+.surveySectionPadding {
+	padding: 80px;
+}
+
+.textDisplayContainer {
+	display: flex;
+	flex-direction: row;
+	gap: 80px;
+	font-size: 18px;
+	align-items: stretch;
+}
+
+.textDisplayMarginBlock {
+	margin-bottom: 40px;
+}
+
+.textDisplayMarginBlockColumn {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.actionTextClick {
+	display: flex;
+	height: 100%;
+	justify-content: center;
+	margin-right: 10px;
+	font-weight: bold;
+}
+
+.actionTextHoverForCounts::before {
+	content: "Hover for counts 👆";
+}
+
+.actionTextHoverForBoxPlotCounts::before {
+	content: "Hover box plot for more stats 👆";
+}
+
+.actionTextHover::before {
+	content: "Hover boxes for values 👆";
+}
+
+.actionTextClick::before {
+	content: "Click to toggle 👉";
+}
+
+.actionTextClickUp::before {
+	content: "Click to toggle 👆";
+}
+
+.actionTextBubbleMap::before {
+	content: "Hover bubbles on map for values";
+}
+
+.actionTextBubbleMap {
+	font-size: 14px !important;
+}
+
+.actionTextClickUpDownOnMobile::before {
+	content: "Click to toggle 👆";
+}
+
+.actionTextClickUpDownOnMobile {
+	display: flex;
+	height: 100%;
+	justify-content: center;
+	margin-right: 10px;
+	font-weight: bold;
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+
+.actionTextClickUp {
+	display: flex;
+	height: 100%;
+	justify-content: center;
+	margin-right: 10px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+@media (max-width: 800px) {
+	.sankeyOverflowOnMobile {
+		overflow-x: scroll;
+		width: 100%;
+	}
+
+	.actionTextHoverForCounts::before {
+		content: "Tap for values 👆";
+	}
+
+	.actionTextBubbleMap::before {
+		content: "Tap bubbles on map for values 🫧";
+	}
+
+	.actionTextHoverForBoxPlotCounts::before {
+		content: "Tap box plot for more stats 👆";
+	}
+
+	.actionTextClick::before {
+		content: "Tap to toggle 👇";
+	}
+
+	.actionTextHover::before {
+		content: "Tap boxes for values 👆";
+	}
+
+	.actionTextClickUp::before {
+		content: "Tap to toggle 👆";
+	}
+
+	.actionTextClickUpDownOnMobile::before {
+		content: "Tap to toggle 👇";
+	}
+
+	.actionTextClickUpDownOnMobile {
+		margin-bottom: -30px;
+	}
+
+	.textDisplayMarginBlock {
+		margin-bottom: 0px;
+	}
+
+	.textDisplayMarginBlockColumn {
+		margin-top: 20px;
+		margin-bottom: 0px;
+	}
+
+	.halfWidthContainer {
+		display: block;
+		padding-top: 40px;
+	}
+
+	.halfWidthContainer > section {
+		width: auto;
+	}
+
+	.halfWidthContainer > section:nth-child(2) {
+		margin-top: 0px;
+		/* just trust me */
+	}
+
+	.surveySectionPadding {
+		padding: 30px;
+	}
+
+	.textDisplayContainer {
+		display: flex;
+		flex-direction: column;
+		gap: 0px;
+	}
+
+	.title {
+		font-size: 40px;
+		color: white;
+		text-shadow: -1px 1px 1px white;
+	}
+
+	.subtitle {
+		font-size: 32px;
+		padding-top: 0px;
+	}
+
+	.subsubtitle {
+		font-size: 24px;
+	}
+
+	.subsection {
+		padding: 50px 20px;
+	}
+}
+
+.checkbox {
+	height: 18px;
+	width: 18px;
+	accent-color: "#9562D8";
+}
+
+.checkbox:hover {
+	cursor: pointer;
+}
+
+.thanksCredits {
+	padding: 80px;
+	padding-bottom: 100px;
+	text-align: center;
+}
+
+.thanksCredits > .subsubtitle {
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+
+.thanksCredits > div {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.classProfileTeamMember {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}

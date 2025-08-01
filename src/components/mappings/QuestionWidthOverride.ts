@@ -35,9 +35,9 @@ export const WIDTH_OVERRIDES: Partial<Record<SURVEY_QUESTION, DisplayWidth>> = {
 
 	"Average Hourly Co-op Salary vs Gender": DisplayWidth.FULL_WIDTH,
 	// "Average Hourly Co-op Salary vs Family Income": DisplayWidth.FULL_WIDTH,
-	"Full-time Total Compensation vs Gender": DisplayWidth.FULL_WIDTH,
-	"Full-time Total Compensation vs Grades": DisplayWidth.FULL_WIDTH,
-	"Full-time Total Compensation vs Family Income": DisplayWidth.FULL_WIDTH,
+	"First-year Total Compensation vs Gender": DisplayWidth.FULL_WIDTH,
+	"First-year Total Compensation vs Grades": DisplayWidth.FULL_WIDTH,
+	"First-year Total Compensation vs Family Income": DisplayWidth.FULL_WIDTH,
 
 	"Drank alcohol, taken an edible, or done another drug in class?":
 		DisplayWidth.HALF_WIDTH,

@@ -402,7 +402,7 @@ export default function CustomRenderer(props: CustomRendererProps) {
 					description={description}
 				/>
 			);
-		case "Full-time Total Compensation vs Gender":
+		case "First-year Total Compensation vs Gender":
 			return (
 				<SurveyPart
 					title={title}
@@ -411,7 +411,7 @@ export default function CustomRenderer(props: CustomRendererProps) {
 					description={description}
 				/>
 			);
-		case "Full-time Total Compensation vs Grades":
+		case "First-year Total Compensation vs Grades":
 			return (
 				<SurveyPartFWGraph
 					title={title}
@@ -427,7 +427,7 @@ export default function CustomRenderer(props: CustomRendererProps) {
 					description={description}
 				/>
 			);
-		case "Full-time Total Compensation vs Family Income":
+		case "First-year Total Compensation vs Family Income":
 			const corrBounds = {
 				...defaultGraphBounds,
 				...overrides,

@@ -1046,11 +1046,11 @@ export const QUESTIONS_TO_SECTIONS: {
 		section: "Correlations",
 		order: 10,
 	},
-	"Full-time Total Compensation vs Gender": {
+	"First-year Total Compensation vs Gender": {
 		section: "Correlations",
 		order: 11,
 	},
-	"Full-time Total Compensation vs Grades": {
+	"First-year Total Compensation vs Grades": {
 		section: "Correlations",
 		order: 13,
 	},
@@ -1058,7 +1058,7 @@ export const QUESTIONS_TO_SECTIONS: {
 	// 	section: "Correlations",
 	// 	order: 14,
 	// },
-	"Full-time Total Compensation vs Family Income": {
+	"First-year Total Compensation vs Family Income": {
 		section: "Correlations",
 		order: 15,
 	},

@@ -68,7 +68,7 @@ export function FTvsGender(props: FTvsGenderProps) {
 						graphMarginLeft={25}
 						graphMarginRight={25}
 						xAxisTitle={""}
-						yAxisTitle={"Full-time Total Compensation (CAD)"}
+						yAxisTitle={"First-year Total Compensation (CAD)"}
 						boxColors={boxColors}
 						graphN={nValuesWithoutOutliers}
 						graphAvg={boxPlotStatsWithoutOutliers.map((stat) => stat.mean)}
@@ -96,7 +96,7 @@ export function FTvsGender(props: FTvsGenderProps) {
 						graphMarginLeft={25}
 						graphMarginRight={25}
 						xAxisTitle={""}
-						yAxisTitle={"Full-time Total Compensation (CAD)"}
+						yAxisTitle={"First-year Total Compensation (CAD)"}
 						boxColors={boxColors}
 						graphN={nValues}
 						graphAvg={boxPlotStats.map((stat) => stat.mean)}

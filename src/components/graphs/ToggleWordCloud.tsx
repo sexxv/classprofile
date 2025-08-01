@@ -87,7 +87,7 @@ export function ToggleWordCloud(props: ButtonToggleGraphProps) {
 		}
 
 		if (title === "Which industry was your co-op employer in?") {
-			return [8, 20 + largestCount * 2];
+			return [8, 20 + largestCount * 1.8];
 		}
 
 		return undefined;

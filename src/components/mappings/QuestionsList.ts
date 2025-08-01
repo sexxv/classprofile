@@ -350,9 +350,9 @@ export const GROUPED_QUESTIONS = [
 
 	"Average Hourly Co-op Salary vs Gender",
 	// "Average Hourly Co-op Salary vs Family Income",
-	"Full-time Total Compensation vs Gender",
-	"Full-time Total Compensation vs Grades",
-	"Full-time Total Compensation vs Family Income",
+	"First-year Total Compensation vs Gender",
+	"First-year Total Compensation vs Grades",
+	"First-year Total Compensation vs Family Income",
 	"Co-op Regions - Flow over Terms",
 ] as const;
 

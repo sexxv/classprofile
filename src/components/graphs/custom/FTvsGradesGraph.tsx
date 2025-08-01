@@ -59,7 +59,7 @@ export function FTvsGradesGraph(props: FTvsGradesProps) {
 							data={data}
 							xAxisTitle="Cumulative Grade (out of 100)"
 							xLabelOffset={20}
-							yAxisTitle="Full-time Total Compensation (CAD)"
+							yAxisTitle="First-year Total Compensation (CAD)"
 							fontSize={5}
 							pointColor={defaultBarColor}
 							correlationCoeff={true}
@@ -98,7 +98,7 @@ export function FTvsGradesGraph(props: FTvsGradesProps) {
 							data={dataWithOutliers}
 							xAxisTitle="Cumulative Grade (out of 100)"
 							xLabelOffset={20}
-							yAxisTitle="Full-time Total Compensation (CAD)"
+							yAxisTitle="First-year Total Compensation (CAD)"
 							fontSize={5}
 							pointColor={defaultBarColor}
 							correlationCoeff={true}

@@ -28,8 +28,9 @@ So in conclusion, beware!
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+If this is your first time developing with the repo, start with `npm i` to install dependencies.
 
-First, run the development server:
+Then, run the development server:
 
 ```bash
 npm run dev

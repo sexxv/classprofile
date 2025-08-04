@@ -2274,7 +2274,7 @@ export const SURVEY_DESCRIPTIONS: Partial<
 			this trend hold up for full-time offers?
 		</>
 	),
-	"Full-time Total Compensation vs Gender": (
+	"First-year Total Compensation vs Gender": (
 		<>
 			Based on our surveys, in contrast to the trend in co-op salaries, women
 			had a lower average total compensation than men.
@@ -2299,7 +2299,7 @@ export const SURVEY_DESCRIPTIONS: Partial<
 			and not to decide your worldview based on a class profile.
 		</>
 	),
-	"Full-time Total Compensation vs Grades": (
+	"First-year Total Compensation vs Grades": (
 		<>
 			How much do grades matter for getting a good full-time job? Based on
 			research, we&apos;d expect that{" "}
@@ -2327,7 +2327,7 @@ export const SURVEY_DESCRIPTIONS: Partial<
 			experience.
 		</>
 	),
-	"Full-time Total Compensation vs Family Income": (
+	"First-year Total Compensation vs Family Income": (
 		<>
 			Do the rich get richer, and the poor get poorer? Studies show that{" "}
 			parental income is positively correlated with{" "}

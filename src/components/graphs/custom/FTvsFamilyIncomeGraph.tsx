@@ -66,7 +66,7 @@ export function FTvsFamilyIncomeGraph(props: FTvsFamilyIncomeProps) {
 				lineColors={meanMedianColors}
 				titleSize={24}
 				titleOffset={40}
-				yAxisTitle="Full-time Total Compensation (CAD)"
+				yAxisTitle="First-year Total Compensation (CAD)"
 				height={200}
 				fontSize={4}
 				marginLeft={40}

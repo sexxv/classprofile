@@ -486,9 +486,9 @@ export const SURVEY_GRAPH_MAPPINGS = {
 
 	"Average Hourly Co-op Salary vs Gender": GraphType.CUSTOM,
 	// "Average Hourly Co-op Salary vs Family Income": GraphType.CUSTOM,
-	"Full-time Total Compensation vs Gender": GraphType.CUSTOM,
-	"Full-time Total Compensation vs Grades": GraphType.CUSTOM,
-	"Full-time Total Compensation vs Family Income": GraphType.CUSTOM,
+	"First-year Total Compensation vs Gender": GraphType.CUSTOM,
+	"First-year Total Compensation vs Grades": GraphType.CUSTOM,
+	"First-year Total Compensation vs Family Income": GraphType.CUSTOM,
 
 	"Co-op Regions - Flow over Terms": GraphType.CUSTOM,
 } as const satisfies {

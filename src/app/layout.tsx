@@ -56,8 +56,9 @@ const graphFont = Josefin_Sans({
 });
 
 export const metadata: Metadata = {
-	title: "Software Engineering 2025 Class Profile",
-	description: "Fun (and hopefully useful) stats about the SE25 cohort!",
+	title: "Waterloo Software Engineering 2025 Class Profile",
+	description:
+		"Fun (and hopefully useful) stats about the University of Waterloo SE25 cohort!",
 };
 
 export default function RootLayout({
